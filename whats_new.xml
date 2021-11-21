@@ -1,0 +1,144 @@
+<nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
+<spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+
+<!-- 01 English -->
+<!-- lastm="2100-12-31T15:11:59.000Z" in the future to always shows the clock ads  from="2010-12-15T00:00:00.000Z" until="2011-12-15T00:00:00.000Z" lastm="2010-12-15T06:45:40.000Z" anno="" -->
+
+<mtrl id="0" from="2021-02-14T00:00:00.000Z" until="2021-02-15T00:00:00.000Z" lastm="2021-02-14T00:00:00.000Z" anno="emergency=1" >
+<desc>INSTALAR SANDRO STORE VIP 2.0</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/sandro_store.png</url>
+<url type="73">https://github.com/sandrojr1991/SANDROSTORE/raw/main/sandro_store.swf</url>
+<target type="u">psgm:install?contentid=EP4350-NPEB00874_00-NETFLIXRIGEL01EU&amp;url=http%3A%2F%2Fares.dl.playstation.net%2Fcdn%2FEP4350%2FNPEB00874_00%2FYeDCODnsOqtUUAlRBRjFiSOvguIDgPaUSGxXRfwnhbVBKVDxvTLAxwSwbvZKtpBF.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>19</lang>
+</mtrl>
+
+<mtrl id="0" from="2021-02-14T00:00:00.000Z" until="2021-02-15T00:00:00.000Z" lastm="2021-02-14T00:00:00.000Z" anno="emergency=1" >
+<desc>INSTALAR SANDRO STORE PLAY</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/sandro_store_play.png</url>
+<url type="73">https://github.com/sandrojr1991/SANDROSTORE/raw/main/sandro_store_play.png</url>
+<target type="u">psgm:install?contentid=EP4350-NPEB00874_00-NETFLIXRIGEL01EU&amp;url=http%3A%2F%2Fhttps://github.com/sandrojr1991/SANDROSTORE/raw/main/SANDRO%20STORE%20PLAY.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>19</lang>
+</mtrl>
+
+<mtrl id="0" lastm="Year-Month-DayTHH:MM:SS.000Z" until="Year-Month-DayTHH:MM:SS.000Z" anno="?">
+<desc>APRESENTAÇÃO SANDROS TORE</desc>
+<url type="2">LINK FOR IMAGE</url>
+<target type="u">psvp:play?url=https://github.com/sandrojr1991/SANDROSTORE/raw/main/SANDRO%20STORE%20PLAY.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>17</lang>
+</mtrl>
+
+
+
+<!-----------------------------------------------------Informations by Luan Teles ------------------------------------------------------------------
+
+<!-- Images Banner
+PNG
+JPG
+
+The Images Must be 485x405 to fill the space. 
+-->
+
+<!-- Flash Banner
+SWF Video Files
+SWF Adobe 9 or less
+Flash Scropt 1.5 or less
+-->
+
+<!-- Video Types
+MOV
+MP4
+-->
+
+<!-- URL Types 
+<url type="1"> PNG
+<url type="2"> JPG
+<url type="3"> GIF
+<url type="72"> SWF
+<target type="u"> MP4,FLV,MOV
+-->
+
+<!-- The following are the tags that can be used to display in specific countries and languages. I always leave the country to all and language to the spoken languages
+but it may be different in your country or not, feel free to use them -->
+
+<!-- Contries	
+<cntry agelmt="0">ae</cntry>	<cntry agelmt="0">ar</cntry>	<cntry agelmt="0">at</cntry>	<cntry agelmt="0">au</cntry>	<cntry agelmt="0">be</cntry>
+<cntry agelmt="0">bg</cntry>	<cntry agelmt="0">bh</cntry>	<cntry agelmt="0">bo</cntry>	<cntry agelmt="0">br</cntry>	<cntry agelmt="0">ca</cntry>
+<cntry agelmt="0">ch</cntry>	<cntry agelmt="0">cl</cntry>	<cntry agelmt="0">cn</cntry>	<cntry agelmt="0">co</cntry>	<cntry agelmt="0">cr</cntry>
+<cntry agelmt="0">cy</cntry>	<cntry agelmt="0">cz</cntry>	<cntry agelmt="0">de</cntry>	<cntry agelmt="0">dk</cntry>	<cntry agelmt="0">ec</cntry>
+<cntry agelmt="0">es</cntry>	<cntry agelmt="0">fi</cntry>	<cntry agelmt="0">fr</cntry>	<cntry agelmt="0">gb</cntry>	<cntry agelmt="0">gr</cntry>
+<cntry agelmt="0">gt</cntry>	<cntry agelmt="0">hk</cntry>	<cntry agelmt="0">hn</cntry>	<cntry agelmt="0">hr</cntry>	<cntry agelmt="0">hu</cntry>
+<cntry agelmt="0">id</cntry>	<cntry agelmt="0">ie</cntry>	<cntry agelmt="0">il</cntry>	<cntry agelmt="0">in</cntry>	<cntry agelmt="0">is</cntry>
+<cntry agelmt="0">it</cntry>	<cntry agelmt="0">jp</cntry>	<cntry agelmt="0">kr</cntry>	<cntry agelmt="0">kw</cntry>	<cntry agelmt="0">lb</cntry>
+<cntry agelmt="0">lu</cntry>	<cntry agelmt="0">mt</cntry>	<cntry agelmt="0">mx</cntry>	<cntry agelmt="0">my</cntry>	<cntry agelmt="0">ni</cntry>
+<cntry agelmt="0">nl</cntry>	<cntry agelmt="0">no</cntry>	<cntry agelmt="0">nz</cntry>	<cntry agelmt="0">om</cntry>	<cntry agelmt="0">pa</cntry>
+<cntry agelmt="0">pe</cntry>	<cntry agelmt="0">ph</cntry>	<cntry agelmt="0">pl</cntry>	<cntry agelmt="0">pt</cntry>	<cntry agelmt="0">py</cntry>
+<cntry agelmt="0">qa</cntry>	<cntry agelmt="0">ro</cntry>	<cntry agelmt="0">rs</cntry>	<cntry agelmt="0">ru</cntry>	<cntry agelmt="0">sa</cntry>
+<cntry agelmt="0">se</cntry>	<cntry agelmt="0">sg</cntry>	<cntry agelmt="0">si</cntry>	<cntry agelmt="0">sk</cntry>	<cntry agelmt="0">sv</cntry>
+<cntry agelmt="0">th</cntry>	<cntry agelmt="0">tr</cntry>	<cntry agelmt="0">tw</cntry>	<cntry agelmt="0">ua</cntry>	<cntry agelmt="0">um</cntry>
+<cntry agelmt="0">us</cntry>	<cntry agelmt="0">uy</cntry>	<cntry agelmt="0">ve</cntry>	<cntry agelmt="0">za</cntry>	<cntry agelmt="0">pepe</cntry>
+
+or <cntry agelmt="0">all</cntry> to show in all contries
+
+-->
+
+<!-- Languages
+<lang>0</lang> Japonese
+<lang>1</lang> English
+<lang>2</lang> French
+<lang>3</lang> Espanish 
+<lang>4</lang> German
+<lang>5</lang> Italian
+<lang>6</lang> Dutch
+<lang>7</lang> Porguese 
+<lang>7</lang> Russian
+<lang>9</lang> Korean
+<lang>10</lang> Chinese T
+<lang>11</lang> Chinese S
+<lang>12</lang> Finish
+<lang>13</lang> Swedish
+<lang>14</lang> Danish
+<lang>15</lang> Norweigan
+<lang>16</lang> Polish
+<lang>17</lang> Portuguese BR
+<lang>18</lang> English GB
+<lang>19</lang> Turkish
+
+or <lang>all</lang> to show in all languages.
+ -->
+ 
+<!-- Functions Examples
+
+unknown - sub-spc (works as normal), rtype, psns:browse?category=%s�u
+
+
+ <target type="u">psgm:play?id=NPJB00001+BLJM67001</target>
+<target type="u">psgm:play?id=BLES80608</target>
+<target type="u">psvp:play?url=http://mercury.dl.playstation.net/cdn/video/ALL/UV0001/NPVA01106_CN/XLe9bOD2uBdGtx31ZCsrKEHf5lpzc0.MP4</target>
+<target type="u">psvp:play?url=http://e1.dl.playstation.net/e1/whatsnew/TakeThat1.mov</target>
+<url type="3">http://nsx.e1-np.dl.playstation.net/fs/nsx/material/6/6f7c9c4c71e7f8dc5b1c9e482c957e8966b79a21-1164.gif</url>
+<target type="u">psns:browse?target=plus</target>
+<target type="c">PN.P3.US-PN.P3.GAME.US-NEWRELEASES</target>
+<target type="c">IV0003-NPXS09016_00--STORE</target>
+<target type="p">IV0003-NPXS09016_00-SWQATEST00000001</target>
+<target type="c">PN.P3.SG-PN.P3.VIDEO.SG-BASE</target>
+<target type="p">NSXWSV-PN.P3.QA-WHATSNEW00000001</target>
+<target type="p">IV0003-NPXS09016_00-SWQATEST00000001</target>
+<target type="u">psns:browse?top=game</target>
+<target type="p">IV0003-NPXS09016_00-SWQATEST00000001</target>
+<target type="p">EP9000-NPEA00057_00-PWIPEOUTHD000001</target>
+<target type="u">psns:mygame?type=playhistory</target>
+<target type="u">psgm:install?contentid=EP4350-NPEB00874_00-NETFLIXRIGEL01EU&amp;url=http%3A%2F%2Fares.dl.playstation.net%2Fcdn%2FEP4350%2FNPEB00874_00%2FYeDCODnsOqtUUAlRBRjFiSOvguIDgPaUSGxXRfwnhbVBKVDxvTLAxwSwbvZKtpBF.pkg</target>
+<target type="u">psgm:play?id=NPJB00766_00</target>
+<target type="u">psgm:play?id=NPIA00005&amp;arg=version%3D1%2E0%26scene%5Fname%3DJ%5FFS%5F3DDGH%5F1%5F181D%5F4365%26spawn%5Fid%3Dblah%26opt1%3D1%26opt2%3D%E6%97%A5%E6%9C%AC%E8%AA%9E</target>
+PS HOME
+<target type="u">psvp:play?url=http%3A%2F%2Fnsx.sec.mgmt.dl.playstation.net%2Ffs%2Fnsx%2Fmaterial%2F3%2F3e8be74b0aba042115378c59eb4a2b4f1a72942e-30479.mp4</target>
+&#xD; pular linha
+Video PS HOME
+<target type="u">psvp:play?url=http%3A%2F%2F122.220.2.164%2Ffs%2Fnsx%2Fmaterial%2F1%2F117c5c3f97c0a22ef314f9d658f9ef0343de6d78-1251.mp4</target>
+
+-->           
+</spc>
+</nsx>
