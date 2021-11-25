@@ -23,7 +23,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Instalar Sandro Store™ Play</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/sandro_store_play.png</url>
-<target type="u">psgm:install?contentid=EP4350-NPEB00874_00-NETFLIXRIGEL01EU&amp;url=http%3A%2F%2Fares.dl.playstation.net%2Fcdn%2FEP4350%2FNPEB00874_00%2FYeDCODnsOqtUUAlRBRjFiSOvguIDgPaUSGxXRfwnhbVBKVDxvTLAxwSwbvZKtpBF.pkg</target>
+<target type="u">psgm:install?contentid=EP4350-NPEB00874_00-NETFLIXRIGEL01EU&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-1a5a2b3b32c2f5af988e/CUSTOM-STOREPLAY_00-0000000000000000.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
