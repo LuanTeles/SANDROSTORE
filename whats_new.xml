@@ -1,0 +1,32 @@
+<!-- Coded for Sandro Store™ by Luan Teles -->
+
+<nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
+<spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Apresentação Santo Store™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/sandro_store.png</url>
+<url type="73">https://github.com/sandrojr1991/SANDROSTORE/raw/main/sandro_store.swf</url>
+<target type="u">https://github.com/LuanTeles/Stores/releases/download/Stores/Sandro_Store_-_Trailer.mp4</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>
+
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Instalar Sandro Store™ VIP 2.0</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/sandro_store.png</url>
+<target type="u">psgm:install?contentid=TA9000-SANDROSTO_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/lojavip/TA9000-SANDROSTO_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>
+
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Instalar Sandro Store™ Play</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/sandro_store_play.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>
+
+</spc>
+</nsx>
