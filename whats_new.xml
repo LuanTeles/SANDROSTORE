@@ -23,7 +23,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Instalar Sandro Store™ Play</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/sandro_store_play.png</url>
-<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-8b91cbd071dc084fd29e/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
