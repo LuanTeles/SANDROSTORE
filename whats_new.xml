@@ -37,12 +37,20 @@
 </mtrl>
 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>Tutorial: Como Baixar Jogos ISO e PKG</desc>
+<desc>Tutorial: Baixar Jogos em PKG</desc>
 <url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/sandrostore_tutorial_1.png</url>
-<target type="u">https://github.com/LuanTeles/Stores/releases/download/Stores/Sandro_Store_-_Trailer.mp4</target>
+<target type="u">https://ia601407.us.archive.org/29/items/baixando-em-pkg/BAIXANDO%20EM%20PKG.mp4</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Tutorial: Baixar Jogos em ISO</desc>
+<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/sandrostore_tutorial_1.png</url>
+<target type="u">https://ia601400.us.archive.org/19/items/jogando-via-webman_202106/JOGANDO%20VIA%20WEBMAN.mp4</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>Tutorial: Como Baixar Filmes e Animes</desc>
