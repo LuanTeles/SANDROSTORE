@@ -59,6 +59,22 @@
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Tutorial: Como Desbanir o PS3</desc>
+<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/sandrostore_tutorial_1.png</url>
+<target type="u">https://ia601507.us.archive.org/8/items/desbanir-ps-3-com-idps-sandro-store-720-p-hd/DESBANIR%20PS3%20COM%20IDPS%20SANDRO%20STORE_720P%20HD.mp4</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Tutorial: Como Ativar Licenças</desc>
+<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/sandrostore_tutorial_1.png</url>
+<target type="u">https://ia601504.us.archive.org/3/items/ativando-licenc-as/ATIVANDO%20LICEN%C3%87AS.mp4</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>   
 
 </spc>
 </nsx>
