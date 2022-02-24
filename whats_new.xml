@@ -37,6 +37,14 @@
 </mtrl>
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>VideoStore 2.2™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/VideoStore2.2.png</url>
+<target type="u">psgm:install?contentid=TA9000-VIDESTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/VIDEOSTORE.2.2.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>    
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Retro Store™ MaxplayGames</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/RetroGames.png</url>
 <target type="u">psgm:install?contentid=TA9000-RETROSTOR_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/RetroGames.pkg</target>
@@ -99,15 +107,7 @@
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
-  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>VideoStore 2.2™</desc>
-<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/VideoStore2.2.png</url>
-<target type="u">psgm:install?contentid=TA9000-VIDESTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/VIDEOSTORE.2.2.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
-  
+    
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Thanos V12 ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/Thanos_V12.png</url>
