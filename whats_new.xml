@@ -2,15 +2,15 @@
 
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 <spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
-
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>Instalar Sandro Store™ VIP</desc>
-<url type="2">http://raw.github.com/sandrojr1991/SANDROSTORE/main/media/sandro_store.png</url>
-<url type="73">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.swf</url>    
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.png</url>
+<url type="73">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.swf</url>  
 <target type="u">psgm:install?contentid=CUSTOM-SANDROSTO_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/SandroStore_premium.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>
+</mtrl>  
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Instalar Sandro Store™ Play</desc>
