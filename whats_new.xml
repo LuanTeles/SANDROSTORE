@@ -236,5 +236,13 @@
 <lang>all</lang>
 </mtrl> 
     
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Atualizar store fix ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/fix_stores.png</url>
+<target type="u">http://download1326.mediafire.com/7zj6lhbf8brg/z0on7ab57911nwl/store_tools_fix.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>     
+  
 </spc>
 </nsx>
