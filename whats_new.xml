@@ -53,7 +53,7 @@
 </mtrl>  
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Max Play Games 2.0 ™</desc>
+<desc>MaxPlayGames 2.0 ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/MaxPlayGames.png</url>
 <target type="u">psgm:install?contentid=TA9000-MAXPGAMES_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/MaxPlayGames.pkg</target>
 <cntry agelmt="0">all</cntry>
