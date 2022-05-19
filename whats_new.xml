@@ -37,9 +37,9 @@
 </mtrl>
     
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Zuko Store™ 3.8</desc>
-<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/zukostore_3.8.png</url>
-<target type="u">psgm:install?contentid=TA9000-ZUKOSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/ZukoStore_3.8.pkg</target>
+<desc>Zuko Store™ 4.0</desc>
+<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORI/main/media/zukostore_4.0.png</url>
+<target type="u">psgm:install?contentid=TA9000-ZUKOSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/ZukoStore_v4.0.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
