@@ -4,7 +4,7 @@
 <spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
  
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Sandro Store™ VIP 2.0.2</desc>
+<desc>Sandro Store™ VIP</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.png</url>
 <url type="73">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.swf</url>  
 <target type="u">psgm:install?contentid=CUSTOM-SANDROSTO_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/SandroStore_premium.pkg</target>
