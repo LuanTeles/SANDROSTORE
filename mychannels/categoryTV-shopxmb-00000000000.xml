@@ -41,7 +41,7 @@
 		<!-- Cinépolis -->
 		<mtrl id="5" mname="Cinépolis - No Psn" from="2015-10-18T15:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2015-10-16T14:11:49.000Z" anno="">
 			<desc>Cinépolis</desc>
-			<url type="117">http://github.com/LuanTeles/Channels/raw/main/media/cinepolis.png</url>
+			<url type="117">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/cinepolis.png</url>
 			<data name="no-psn.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLg==</data>
 			<target type="u">psgm:install?contentid=UP2191-NPUP31348_00-CINEPOLISKLICPS3&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/Cinepolis_v1.04.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -59,7 +59,7 @@
 		<!-- Crackle -->		
 		<mtrl id="7" mname="Crackle - No Psn and No Ads" from="2014-12-10T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2014-12-10T11:11:38.000Z" anno="">
 			<desc>Crackle</desc>
-			<url type="117">http://github.com/LuanTeles/Channels/raw/main/media/crackle.png</url>
+			<url type="117">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/crackle.png</url>
 			<data name="no-psn.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLg==</data>
 			<target type="u">psgm:install?contentid=US0007-NPUP00077_00-CRACKLEPS3TRILIT&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/Crackle_v2.01.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -86,7 +86,7 @@
 		<!-- DAZN -->		
 		<mtrl id="10" mname="Dazn - No Psn" from="2016-12-07T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2016-11-30T10:11:30.000Z" anno="">
 			<desc>Danz</desc>
-			<url type="117">http://github.com/LuanTeles/Channels/raw/main/media/danz.png</url>
+			<url type="117">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/danz.png</url>
 			<data name="no-psn.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLg==</data>
 			<target type="u">psgm:install?contentid=EP8819-NPEB02391_00-PERFORMGROUP2016&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/DAZN_v1.03.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -95,7 +95,7 @@
 		<!-- Film1 -->		
 		<mtrl id="11" mname="Fi1m - Official" from="2016-12-07T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2016-11-30T10:11:30.000Z" anno="">
 			<desc>Fi1m</desc>
-			<url type="117">http://github.com/LuanTeles/Channels/raw/main/media/fi1m.png</url>
+			<url type="117">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/fi1m.png</url>
 			<data name="official.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBub3QgeWV0IGJlZW4gcGF0Y2hlZCB0byBieXBhc3MgdGhlIFBsYXlTdGF0aW9u4oSiTmV0d29yayBsb2dpbiBmcm9tIHRoZSBzeXN0ZW0uCi0gWW91IG11c3QgYmUgY29ubmVjdGVkIHRvIFBsYXlTdGF0aW9u4oSiTmV0d29yayBpbiBvcmRlciB0byB1c2UgdGhpcyBhcHBsaWNhdGlvbi4=</data>
 			<target type="u">psgm:install?contentid=EP8820-NPEB02412_00-WEBMAF00PS4FILM1&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/DirecTV_NFL_v6.01.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -140,7 +140,7 @@
 		<!-- iHeart -->
 		<mtrl id="16" mname="iHeart - Official" from="2018-02-27T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2020-01-29T19:29:54.000Z" anno="">
 			<desc>iHeart</desc>
-			<url type="118">http://github.com/LuanTeles/Channels/raw/main/media/iheart_radio.png</url>
+			<url type="118">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/iheart_radio.png</url>
 			<data name="official.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBub3QgeWV0IGJlZW4gcGF0Y2hlZCB0byBieXBhc3MgdGhlIFBsYXlTdGF0aW9u4oSiTmV0d29yayBsb2dpbiBmcm9tIHRoZSBzeXN0ZW0uCi0gWW91IG11c3QgYmUgY29ubmVjdGVkIHRvIFBsYXlTdGF0aW9u4oSiTmV0d29yayBpbiBvcmRlciB0byB1c2UgdGhpcyBhcHBsaWNhdGlvbi4=</data>
 			<target type="u">psgm:install?contentid=UP2207-NPUP31352_00-IHEARTRADIOAPP15&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/Hulu_v2.30.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -158,7 +158,7 @@
 		<!-- Maxdome -->
 		<mtrl id="18" mname="Maxdome - Official" from="2015-10-22T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2015-10-19T11:52:10.000Z" anno="">
 			<desc>Maxdome</desc>
-			<url type="117">http://github.com/LuanTeles/Channels/raw/main/media/maxdome.png</url>
+			<url type="117">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/maxdome.png</url>
 			<data name="official.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBub3QgeWV0IGJlZW4gcGF0Y2hlZCB0byBieXBhc3MgdGhlIFBsYXlTdGF0aW9u4oSiTmV0d29yayBsb2dpbiBmcm9tIHRoZSBzeXN0ZW0uCi0gWW91IG11c3QgYmUgY29ubmVjdGVkIHRvIFBsYXlTdGF0aW9u4oSiTmV0d29yayBpbiBvcmRlciB0byB1c2UgdGhpcyBhcHBsaWNhdGlvbi4=</data>
 			<target type="u">psgm:install?contentid=EP4374-NPEB01192_00-MAXDOMEFULLAPP00&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/iPLA_v1.00.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -194,7 +194,7 @@
 		<!-- Movian -->
 		<mtrl id="22" mname="Movian - Unofficial" from="2014-12-10T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2014-12-10T14:38:32.000Z" anno="">
 			<desc>Movian</desc>
-			<url type="117">http://github.com/LuanTeles/Channels/raw/main/media/movian.png</url>
+			<url type="117">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/movian.png</url>
 			<target type="u">psgm:install?contentid=UP0001-HTSS00003_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/MLB_TV_v2.95.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
@@ -229,7 +229,7 @@
 		<!-- NFL -->	
 		<mtrl id="26" mname="NFL" from="2014-03-12T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2014-03-12T14:29:30.000Z" anno="">
 			<desc>NFL</desc>
-			<url type="117">http://github.com/LuanTeles/Channels/raw/main/media/nfl.png</url>
+			<url type="117">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/nfl.png</url>
 			<data name="official.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBub3QgeWV0IGJlZW4gcGF0Y2hlZCB0byBieXBhc3MgdGhlIFBsYXlTdGF0aW9u4oSiTmV0d29yayBsb2dpbiBmcm9tIHRoZSBzeXN0ZW0uCi0gWW91IG11c3QgYmUgY29ubmVjdGVkIHRvIFBsYXlTdGF0aW9u4oSiTmV0d29yayBpbiBvcmRlciB0byB1c2UgdGhpcyBhcHBsaWNhdGlvbi4=</data>
 			<target type="u">psgm:install?contentid=UP9002-NPUO00019_00-NFLTVPS3STREAM01&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/Netflix_v2.36.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -238,7 +238,7 @@
 		<!-- NºK TV -->			
 		<mtrl id="27" mname="NºK TV - Official" from="2018-02-27T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2020-01-29T19:42:01.000Z" anno="">
 			<desc>NRK TV</desc>
-			<url type="118">http://github.com/LuanTeles/Channels/raw/main/media/nrk_tv.png</url>
+			<url type="118">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/nrk_tv.png</url>
 			<data name="official.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBub3QgeWV0IGJlZW4gcGF0Y2hlZCB0byBieXBhc3MgdGhlIFBsYXlTdGF0aW9u4oSiTmV0d29yayBsb2dpbiBmcm9tIHRoZSBzeXN0ZW0uCi0gWW91IG11c3QgYmUgY29ubmVjdGVkIHRvIFBsYXlTdGF0aW9u4oSiTmV0d29yayBpbiBvcmRlciB0byB1c2UgdGhpcyBhcHBsaWNhdGlvbi4=</data>
 			<target type="u">psgm:install?contentid=EP4509-NPEB02137_00-WEBMAF00000NRKTV&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/NRK_TV_v1.02.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -247,7 +247,7 @@
 		<!-- NºK Super -->			
 		<mtrl id="28" mname="NºK Super - Official" from="2018-02-27T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2020-01-29T19:42:01.000Z" anno="">
 			<desc>NRK Super</desc>
-			<url type="118">http://github.com/LuanTeles/Channels/raw/main/media/nrk_super.png</url>
+			<url type="118">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/nrk_super.png</url>
 			<data name="official.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBub3QgeWV0IGJlZW4gcGF0Y2hlZCB0byBieXBhc3MgdGhlIFBsYXlTdGF0aW9u4oSiTmV0d29yayBsb2dpbiBmcm9tIHRoZSBzeXN0ZW0uCi0gWW91IG11c3QgYmUgY29ubmVjdGVkIHRvIFBsYXlTdGF0aW9u4oSiTmV0d29yayBpbiBvcmRlciB0byB1c2UgdGhpcyBhcHBsaWNhdGlvbi4=</data>
 			<target type="u">psgm:install?contentid=EP4509-NPEB02136_00-WEBMAF00NRKSUPER&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/NRK_Super_v1.02.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -292,7 +292,7 @@
 		<!-- RTBF -->
 		<mtrl id="33" mname="RTBF - Official" from="2013-07-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2013-07-01T14:20:52.000Z" anno="">
 			<desc>RTBF</desc>
-			<url type="117">http://github.com/LuanTeles/Channels/raw/main/media/rtbf.png</url>
+			<url type="117">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/rtbf.png</url>
 			<data name="official.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBub3QgeWV0IGJlZW4gcGF0Y2hlZCB0byBieXBhc3MgdGhlIFBsYXlTdGF0aW9u4oSiTmV0d29yayBsb2dpbiBmcm9tIHRoZSBzeXN0ZW0uCi0gWW91IG11c3QgYmUgY29ubmVjdGVkIHRvIFBsYXlTdGF0aW9u4oSiTmV0d29yayBpbiBvcmRlciB0byB1c2UgdGhpcyBhcHBsaWNhdGlvbi4=</data>
 			<target type="u">psgm:install?contentid=EP4400-NPEB01429_00-RTBF0000WEBMAF00&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/RTBT_v1.00.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -301,7 +301,7 @@
 		<!-- Spotify -->
 		<mtrl id="34" mname="Spotify - No Psn" from="2015-10-07T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2015-10-07T13:45:16.000Z" anno="">
 			<desc>Spotify</desc>
-			<url type="117">http://github.com/LuanTeles/Channels/raw/main/media/spotify.png</url>
+			<url type="117">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/spotify.png</url>
 			<data name="no-psn.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLg==</data>
 			<target type="u">psgm:install?contentid=EP4950-NPEB02222_00-SPOTIFY0FULL0000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/Spotify_v1.22.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -319,7 +319,7 @@
 		<!-- Tubi TV -->
 		<mtrl id="36" mname="Tubi TV - Official" from="2017-06-20T07:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2017-11-21T19:28:45.000Z" anno="fixed=1">
 			<desc>Tubi TV</desc>
-			<url type="117">http://github.com/LuanTeles/Channels/raw/main/media/tubi.png</url>
+			<url type="117">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/tubi.png</url>
 			<data name="official.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBub3QgeWV0IGJlZW4gcGF0Y2hlZCB0byBieXBhc3MgdGhlIFBsYXlTdGF0aW9u4oSiTmV0d29yayBsb2dpbiBmcm9tIHRoZSBzeXN0ZW0uCi0gWW91IG11c3QgYmUgY29ubmVjdGVkIHRvIFBsYXlTdGF0aW9u4oSiTmV0d29yayBpbiBvcmRlciB0byB1c2UgdGhpcyBhcHBsaWNhdGlvbi4=</data>
 			<target type="u">psgm:install?contentid=UP8834-NPUP31377_00-TUBITVPS30000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/Tubi_TV_v1.02.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -337,7 +337,7 @@
 		<!-- TV3-->		
 		<mtrl id="38" mname="TV3 - No Psn" from="2014-11-24T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2014-11-24T10:44:33.000Z" anno="">
 			<desc>TV3</desc>
-			<url type="117">http://github.com/LuanTeles/Channels/raw/main/media/tv3.png</url>
+			<url type="117">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/tv3.png</url>
 			<data name="no-psn.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLg==</data>
 			<target type="u">psgm:install?contentid=EP4516-NPEB02166_00-WEBMAF0000000TV33&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/TV3_v1.01.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -355,7 +355,7 @@
 		<!-- Vevo -->
 		<mtrl id="40" mname="Vevo - No Psn" from="2016-04-20T00:00:00.000Z" until="2100-03-05T23:59:00.000Z" lastm="2020-03-05T09:51:25.000Z" anno="">
 			<desc>Vevo</desc>
-			<url type="117">http://github.com/LuanTeles/Channels/raw/main/media/vevo.png</url>
+			<url type="117">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/vevo.png</url>
 			<data name="no-psn.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLg==</data>
 			<target type="u">psgm:install?contentid=EP4547-NPEB02212_00-WEBMAF000000VEVO&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/Vevo_v1.00.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -400,7 +400,7 @@
 		<!-- XVideos Straight Edition -->
 		<mtrl id="45" mname="XVideos - Straight Edition" from="2017-06-20T07:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2017-11-21T19:28:45.000Z" anno="fixed=1">
 			<desc>XVideos - Straight Edition</desc>
-			<url type="117">http://github.com/LuanTeles/Channels/raw/main/media/xvideos_straight.png</url>
+			<url type="117">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/xvideos_straight.png</url>
 			<data name="+18.txt" type="120">V2FybmluZyEKCi0gWW91IG11c3QgYmUgMTggb3Igb2xkZXIgaW4gb3JkZXIgdG8gZG93bmxvYWQgdGhpcyBjb250ZW50Lg==</data>
 			<target type="u">psgm:install?contentid=PS3CFW-XVIDEOSHT_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/XVideos_Straight_v1.00.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -409,7 +409,7 @@
 		<!-- XVideos Gay Edition -->
 		<mtrl id="46" mname="XVideos - Straight Edition" from="2017-06-20T07:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2017-11-21T19:28:45.000Z" anno="fixed=1">
 			<desc>XVideos - Gay Edition</desc>
-			<url type="117">http://github.com/LuanTeles/Channels/raw/main/media/xvideos_gay.png</url>
+			<url type="117">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/xvideos_gay.png</url>
 			<data name="+18.txt" type="120">V2FybmluZyEKCi0gWW91IG11c3QgYmUgMTggb3Igb2xkZXIgaW4gb3JkZXIgdG8gZG93bmxvYWQgdGhpcyBjb250ZW50Lg==</data>
 			<target type="u">psgm:install?contentid=PS3CFW-XVIDEOSGA_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/XVideos_Gay_v1.00.pkg</target>
 			<cntry agelmt="0">all</cntry>
@@ -418,7 +418,7 @@
 		<!-- XVideos Lesbian Edition -->
 		<mtrl id="47" mname="XVideos - Straight Edition" from="2017-06-20T07:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2017-11-21T19:28:45.000Z" anno="fixed=1">
 			<desc>XVideos - Lesbian Edition</desc>
-			<url type="117">http://github.com/LuanTeles/Channels/raw/main/media/xvideos_lesbian.png</url>
+			<url type="117">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/mychannels/xvideos_lesbian.png</url>
 			<data name="+18.txt" type="120">V2FybmluZyEKCi0gWW91IG11c3QgYmUgMTggb3Igb2xkZXIgaW4gb3JkZXIgdG8gZG93bmxvYWQgdGhpcyBjb250ZW50Lg==</data>
 			<target type="u">psgm:install?contentid=PS3CFW-XVIDEOSLB_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/MyChannels/XVideos_Lesbian_v1.00.pkg</target>
 			<cntry agelmt="0">all</cntry>
