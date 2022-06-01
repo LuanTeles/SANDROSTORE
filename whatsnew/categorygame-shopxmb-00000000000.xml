@@ -215,7 +215,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Webman MoD ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/webman.png</url>
-<target type="u">psgm:install?contentid=EP0001-UPDWEBMOD_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/Webman.pkg</target>
+<target type="u">psgm:install?contentid=EP0001-UPDWEBMOD_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/webMAN_MOD_1.47.41_Installer.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
