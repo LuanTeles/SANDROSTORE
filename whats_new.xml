@@ -3,14 +3,6 @@
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 <spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>Sandro Store™ Play</desc>
-<url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/media/sandrostoreplay.png</url>
-<target type="u">https://sandrostoreps3.blogspot.com/2022/05/sandro-store-play.html</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>   
-
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Sandro Store™ VIP 2.0.2</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.png</url>
@@ -21,7 +13,7 @@
 </mtrl> 
    
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>Trailer Sandro Store™ VIP</desc>
+<desc>Tutorial Sandro Store™ VIP</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.png</url>
 <target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
 <cntry agelmt="0">all</cntry>
