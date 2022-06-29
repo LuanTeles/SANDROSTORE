@@ -11,13 +11,6 @@
 			<lang>all</lang>
 		</mtrl>		
 	<!-- Current Games -->
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-			<desc>UFC Undisputed 3 - ISO 22,88 Gb</desc>
-			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/games_icon/ufc_undisputed.png</url>
-			<target type="u">http://storeps4.sandrostoreps3.workers.dev/0:/UFC%20Undisputed%203%20[BLES01231].iso</target>
-			<cntry agelmt="0">all</cntry>
-			<lang>all</lang>
-		</mtrl> 		
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Grand Theft Auto V - NPUB31154 - 17.2 Gb</desc>
 			<url type="2">http://github.com/LuanTeles/Billboard/raw/main/media/game/gta_v.png</url>
@@ -47,20 +40,19 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>Dark Souls 2: Scholar of the First Sin - NPUB31666 - 6.19 Gb</desc>
-			<url type="2">http://github.com/LuanTeles/Billboard/raw/main/media/game/dark_souls_2_sholar_of_the_first_sin.png</url>
-			<target type="u">psgm:install?contentid=UP0700-NPUB31666_00-DARKSOULS2000002&amp;url=http://zeus.dl.playstation.net/cdn/UP0700/NPUB31666_00/UP0700-NPUB31666_00-DARKSOULS2000002_bg_1_13b86fa2785dc417c6d1baed78b611c3979fd1b8.pkg</target>
-			<cntry agelmt="0">all</cntry>
-			<lang>all</lang>
-		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Battlefield 4 - NPUB31148 - 9.92 Gb</desc>
 			<url type="2">http://github.com/LuanTeles/Billboard/raw/main/media/game/battlefield_4.png</url>
 			<target type="u">psgm:install?contentid=UP0006-NPUB31148_00-BATTLEFIELD40000&amp;url=http://zeus.dl.playstation.net/cdn/UP0006/NPUB31148_00/gnsgoUCSIRPndWlAAOfdWpeiiaIockZJrXVzdBTJPKFEpHtunBpHGoPHXRqRYSuB.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>Dark Souls 2: Scholar of the First Sin - NPUB31666 - 6.19 Gb</desc>
+			<url type="2">http://github.com/LuanTeles/Billboard/raw/main/media/game/dark_souls_2_sholar_of_the_first_sin.png</url>
+			<target type="u">psgm:install?contentid=UP0700-NPUB31666_00-DARKSOULS2000002&amp;url=http://zeus.dl.playstation.net/cdn/UP0700/NPUB31666_00/UP0700-NPUB31666_00-DARKSOULS2000002_bg_1_13b86fa2785dc417c6d1baed78b611c3979fd1b8.pkg</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>		
 <!-- Jogos Semana 1 -->
 
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
