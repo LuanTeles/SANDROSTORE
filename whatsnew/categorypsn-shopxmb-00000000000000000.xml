@@ -19,8 +19,8 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="1080778886" mname="Item 8" from="2019-02-28T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-04-09T20:52:07.000Z" anno="">
-			<desc>God of War III - NPUA80918 - 34.02 Gb</desc>
-			<url type="2">http://github.com/LuanTeles/Billboard/raw/main/media/game/god_of_war-ascension.png</url>
+			<desc>God of War III - NPUA80918 - 40.00 Gb</desc>
+			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/games_icon/gow_3.png</url>
 			<target type="u">psgm:install?contentid=TA9000-NPEA00510_00-GAME000000000000&amp;url=http://whatsnew.sandrostoreps3.workers.dev/0:/TA9000-NPEA00510_00-GAME00000000000.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
