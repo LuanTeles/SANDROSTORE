@@ -13,7 +13,7 @@
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 			<desc>UFC Undisputed 3 - ISO 22,88 Gb</desc>
 			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/games_icon/ufc_undisputed.png</url>
-			<target type="u">https://storeps4.sandrostoreps3.workers.dev/0:/UFC%20Undisputed%203%20[BLES01231].iso</target>
+			<target type="u">http://storeps4.sandrostoreps3.workers.dev/0:/UFC%20Undisputed%203%20[BLES01231].iso</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl> 		
