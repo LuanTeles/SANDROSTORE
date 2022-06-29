@@ -1,7 +1,8 @@
 <!-- Coded for PS3™ 4K Pro by Luan Teles -->
 
-<nsx ver="1.0" rev="571" lt-id="131" anno="" min-sys-ver="">
-	<spc id="33537" rep="t" multi="o" anno="">
+<nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
+<spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+
 		<mtrl id="1080424898" mname="Playstation Game Store Default Banner A" from="2008-01-01T00:00:00.000Z" until="2108-01-01T00:00:00.000Z" lastm="2019-06-09T01:56:15.000Z" anno="picks=1">
 			<desc>JOGOS® Em Alta</desc>
 			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/games_icon/playstation_game_store.png</url>
