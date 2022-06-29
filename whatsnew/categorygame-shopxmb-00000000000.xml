@@ -12,6 +12,14 @@
 <lang>all</lang>
 </mtrl>
  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>TESTE 2</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.png</url>
+<target type="u">http://whatsnew.sandrostoreps3.workers.dev/0:/Altered%20Beast%20-%20PT%20-BR%20-%20BY%20SANDRO%20STORE%20[PS2%20Classics]%20[SLES53024].pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+ 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Sandro Store™ VIP</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.png</url>
