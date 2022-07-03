@@ -172,14 +172,6 @@
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 
-		<!-- Child of Kamiari Month -->
-	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-		<desc>Child of Kamiari Month</desc>
-		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/childofkamiarimonth.png</url>
-		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/Child.of.Kamiari.Month.-.BY.SANDRO.STORE.mp4</target>
-		<cntry agelmt="0">all</cntry>
-		<lang>all</lang>
-	</mtrl> 	
 		<!-- Como Petalas que Caem -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Como Petalas que Caem</desc>
