@@ -8,15 +8,7 @@
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>1917</desc>
 		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/1917.png</url>
-		<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
-		<cntry agelmt="0">all</cntry>
-		<lang>all</lang>
-	</mtrl> 
-		<!-- A Menina que matou os Pais -->
-	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-		<desc>A Menina que matou os Pais</desc>
-		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/ameninaquematouospais.png</url>
-		<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Guerra/1917.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 
@@ -32,15 +24,7 @@
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Cruela</desc>
 		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/cruela.png</url>
-		<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
-		<cntry agelmt="0">all</cntry>
-		<lang>all</lang>
-	</mtrl> 
-		<!-- Doutor Estranho 2 -->
-	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-		<desc>Doutor Estranho 2</desc>
-		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/doutorestranho2.png</url>
-		<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/comedia/Cruella.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 
@@ -48,23 +32,7 @@
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Duna</desc>
 		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/duna.png</url>
-		<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
-		<cntry agelmt="0">all</cntry>
-		<lang>all</lang>
-	</mtrl> 
-		<!-- Esquadrão Suicida -->
-	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-		<desc>Esquadrão Suicida</desc>
-		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/esquadraosuicida.png</url>
-		<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
-		<cntry agelmt="0">all</cntry>
-		<lang>all</lang>
-	</mtrl> 
-		<!-- Eternos -->
-	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-		<desc>Eternos</desc>
-		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/eternos.png</url>
-		<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/acao/Duna.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 
@@ -72,7 +40,7 @@
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Homem Aranha sem volta pra casa</desc>
 		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/homemaranhasemvoltapracasa.png</url>
-		<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/homemaranha/Homem-Aranha_.Sem.Volta.Para.Casa.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 
@@ -80,7 +48,7 @@
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Liga da Justica</desc>
 		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/ligadajustica.png</url>
-		<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/heroes/Liga.da.justica.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 
@@ -88,7 +56,7 @@
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Matrix 4</desc>
 		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/matrix4.png</url>
-		<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/acao/Matrix.Resurrections.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 
@@ -104,7 +72,7 @@
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Pânico</desc>
 		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/panico.png</url>
-		<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Terror/Panico.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 	
@@ -128,7 +96,7 @@
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Velozese Furiosos 9</desc>
 		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/velozesefuriosos9.png</url>
-		<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/thefastandfurious/Velozes.Furiosos.9.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 	
@@ -136,7 +104,7 @@
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Venon 2</desc>
 		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/venon_tpc.png</url>
-		<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/acao/Venom_.Tempo.de.Carnificina.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 
@@ -144,7 +112,7 @@
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Viuva x Negra</desc>
 		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/viuvaxnegra.png</url>
-		<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/heroes/Viuva.Negra.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 
