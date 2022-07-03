@@ -155,12 +155,20 @@
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/Capita.Nova.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
-	</mtrl>		
-		<!-- Cruela -->
+	</mtrl>	
+		<!-- Capitã Nova -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-		<desc>Cruela</desc>
-		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/cruela.png</url>
-		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/comedia/Cruella.-.BY.SANDRO.STORE.mp4</target>
+		<desc>Capitã Nova</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/capitanova.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/Capita.Nova.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>		
+		<!-- Caranguejo Negro -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Caranguejo Negro</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/carangueijonegro.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/Caranguejo.Negro.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 
