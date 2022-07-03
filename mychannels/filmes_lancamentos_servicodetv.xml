@@ -227,12 +227,20 @@
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/Dog.2022.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
-	</mtrl> 	
-		<!-- homem aranha sem volta pra casa -->
+	</mtrl> 
+		<!-- Dog -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-		<desc>Homem Aranha sem volta pra casa</desc>
-		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/homemaranhasemvoltapracasa.png</url>
-		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/homemaranha/Homem-Aranha_.Sem.Volta.Para.Casa.-.BY.SANDRO.STORE.mp4</target>
+		<desc>Dog</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/dog.png.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/Dog.2022.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl> 	
+		<!-- Ecos de um Crime -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Ecos de um Crime</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/ecosdeumcrime.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/Ecos.de.um.Crime.2022.-.BY.SANDRO.STORE.mp44</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 
