@@ -532,6 +532,14 @@
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 
+		<!-- Sem Saída -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Sem Saída</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/semsaida.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/Sem.Sa__da.2022.WEB-DL.720p.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl> 	
 		<!-- S.O.S Mamis La Pelicula -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>S.O.S Mamis La Pelicula</desc>
