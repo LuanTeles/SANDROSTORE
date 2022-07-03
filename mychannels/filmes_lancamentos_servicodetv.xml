@@ -99,6 +99,14 @@
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/Apresentando.Nate.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
+	</mtrl> 
+		<!-- Aranhas de Papel -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Aranhas de Papel</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/aranhasdepapel.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/Aranhas.de.Papel.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
 	</mtrl> 	
 		<!-- Aves de Rapina -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
