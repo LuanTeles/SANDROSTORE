@@ -83,11 +83,19 @@
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Terror/Panico.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
-	</mtrl> 	
+	</mtrl> 
 		<!-- sonic 2 -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Sônic 2</desc>
 		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/sonic2.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/filmes.2022/Sonic.2_.O.Filme.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl> 	
+		<!-- Shang-Chi e a Lenda dos Dez Anéis -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Shang-Chi e a Lenda dos Dez Anéis</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/shangchi.png</url>
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/filmes.2022/Sonic.2_.O.Filme.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
