@@ -111,7 +111,7 @@
 		<!-- As Trambiqueiras -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>As Trambiqueiras</desc>
-		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/aranhasdepapel.png</url>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/astrambiqueiras.png</url>
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/As.Trambiqueiras.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
@@ -127,7 +127,7 @@
 		<!-- Aves de Rapina -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Arlequina em Aves de Rapina</desc>
-		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/astrambiqueiras.png</url>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/avesderapina.png</url>
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Aventura/Aves.de.Rapina_.Arlequina.e.sua.Emancipacao.Fantabulosa.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
@@ -156,14 +156,6 @@
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl>	
-		<!-- Capitã Nova -->
-	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-		<desc>Capitã Nova</desc>
-		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/capitanova.png</url>
-		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/Capita.Nova.-.BY.SANDRO.STORE.mp4</target>
-		<cntry agelmt="0">all</cntry>
-		<lang>all</lang>
-	</mtrl>		
 		<!-- Caranguejo Negro -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Caranguejo Negro</desc>
