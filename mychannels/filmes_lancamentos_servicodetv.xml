@@ -19,6 +19,14 @@
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/filmes.2022/Animais.Fantasticos_.Os.Segredos.de.Dumbledore.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
+	</mtrl> 
+		<!-- Aves de Rapina -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Arlequina em Aves de Rapina</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/avesderapina.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Aventura/Aves.de.Rapina_.Arlequina.e.sua.Emancipacao.Fantabulosa.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
 	</mtrl> 	
 		<!-- Cruela -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
