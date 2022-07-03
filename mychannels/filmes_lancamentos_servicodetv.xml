@@ -467,6 +467,14 @@
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/O.Bombardeio.2022.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
+	</mtrl> 
+		<!-- O Livro Do Amor -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>O Livro Do Amor</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/olivrodoamor.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/O.Livro.Do.Amor.2022.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
 	</mtrl> 	
 		<!-- o projeto adam -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
@@ -476,19 +484,19 @@
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 	
-		<!-- panico -->
-	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-		<desc>Pânico</desc>
-		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/panico.png</url>
-		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Terror/Panico.-.BY.SANDRO.STORE.mp4</target>
-		<cntry agelmt="0">all</cntry>
-		<lang>all</lang>
-	</mtrl> 
 		<!-- Os Piratas Em Busca do Tesouro Perdido -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Os Piratas Em Busca do Tesouro Perdido</desc>
 		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/OsPiratasEmBuscadoTesouroPerdido.png</url>
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/Os.Piratas.Em.Busca.do.Tesouro.Perdido.2022.720p.Dub.Filmesmp4.com.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl> 
+		<!-- panico -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Pânico</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/panico.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Terror/Panico.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 	
