@@ -68,9 +68,25 @@
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 
+		<!-- Jumanji Bem Vindo a Selva -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Jumanji Bem Vindo a Selva</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/jumanjibemvindoaselva.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Aventura/Jumanji_.Bem-Vindo.a.Selva.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl> 
+		<!-- Jumanji Próxima Fase -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Jumanji Próxima Fase</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/jumanjiproximafase.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Aventura/Jumanji_.Proxima.Fase.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl> 	
 		<!-- liga da justica -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-		<desc>Liga da Justica</desc>
+		<desc>Liga da Justiça</desc>
 		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/ligadajustica.png</url>
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/heroes/Liga.da.justica.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
