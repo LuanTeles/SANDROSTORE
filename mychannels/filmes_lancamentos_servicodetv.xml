@@ -307,6 +307,14 @@
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/Ida.Red.2022.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
+	</mtrl> 
+		<!-- Jackass para Sempre -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Jackass para Sempre</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/FILMES/jackassparasempre.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/Filmes/Jackass.para.Sempre.2022.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
 	</mtrl> 	
 		<!-- Jumanji Bem Vindo a Selva -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
