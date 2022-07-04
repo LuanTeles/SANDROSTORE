@@ -23,7 +23,7 @@
 		<!-- A Pequena Sereia a História de Ariel -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>A Pequena Sereia a História de Ariel</desc>
-		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Anastasia.png</url>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/A.Pequena.Sereia.a.Historia.de.Ariel.png</url>
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/A.Pequena.Sereia.a.Historia.de.Ariel.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
@@ -124,6 +124,14 @@
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl>	
+		<!-- Irmão urso -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Irmão urso</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Irmao-ursos-2.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Irmao-ursos-2.-.BY.SANDRO.STORE.mp4.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>		
 		<!-- Lilo e Stitch -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Lilo e Stitch</desc>
@@ -244,13 +252,6 @@
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl>	
-		<!-- Tarzan -->
-	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-		<desc>Tarzan</desc>
-		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Tarzan.png</url>
-		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Tarzan.-.BY.SANDRO.STORE.mp4</target>
-		<cntry agelmt="0">all</cntry>
-		<lang>all</lang>
-	</mtrl>		
+
 	</spc>
 </nsx>
