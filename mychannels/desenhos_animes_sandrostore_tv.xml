@@ -179,6 +179,46 @@
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Os.Cavaleiros.do.Zodiaco.-.O.Santo.Guerreiro.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
+	</mtrl>	
+		<!-- Os Cavaleiros do Zodiaco Os Guerreiros do Armagedon -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Os Cavaleiros do Zodiaco Os Guerreiros do Armagedon</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Os.Cavaleiros.do.Zodiaco.-.Os.Guerreiros.do.Armagedon.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Os.Cavaleiros.do.Zodiaco.-.Os.Guerreiros.do.Armagedon.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Os Cavaleiros do Zodiaco Prologo do Céu -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Os Cavaleiros do Zodiaco Prologo do Céu</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Os.Cavaleiros.do.Zodiaco.-.Prologo.do.Ceu.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Os.Cavaleiros.do.Zodiaco.-.Prologo.do.Ceu.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Pocahontas -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Pocahontas</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Pocahontas.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Pocahontas.1.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Tarzan -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Tarzan</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Tarzan.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Tarzan.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Tarzan -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Tarzan</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Tarzan.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Tarzan.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
 	</mtrl>		
 	</spc>
 </nsx>
