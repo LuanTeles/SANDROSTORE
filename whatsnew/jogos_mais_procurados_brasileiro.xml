@@ -1,4 +1,4 @@
-<!-- Coded for Sandro Store™ by Luan Teles -->
+<!-- Coded for Sandro Store™ -->
 
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 <spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
@@ -101,5 +101,54 @@
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Assassin's Creed Revelations ™ [ISO] - 7 GB</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/media/sandro_store.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Assassin's%20Creed%20Revelations%20%20[BLES01466].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Assassin's Creed Rogue ™ [ISO] - 6 GB</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/media/sandro_store.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Assassin_s%20Creed%20Rogue%20[BLUS31465].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Call of Duty Black Ops II ™ [ISO] - 20 GB</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/media/sandro_store.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Call%20of%20Duty%C2%AE%20Black%20Ops%20II%20[BLUS31141].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Call of Dut Black Ops III ™ [ISO] - 4 GB</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/media/sandro_store.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Call%20of%20Duty%C2%AE%20Black%20Ops%20III%20%20[BLUS31527].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Grand Thef Auto V ™ [ISO] - 17 GB</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/media/sandro_store.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Grand%20Theft%20Auto%20V%20%20[BLES01807].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Sleeping Dogs ™ [ISO] - 7 GB</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/media/sandro_store.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Sleeping%20Dogs%20[BLUS30927].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>The Last of Us ™ [ISO] - 27 GB</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/media/sandro_store.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/The%20Last%20of%20Us%20[BCUS98174].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
 </spc>
 </nsx>
