@@ -55,7 +55,7 @@
 		<!-- Cinderela -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Cinderela</desc>
-		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/DESENHOS/Cinderela.1.png</url>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/DESENHOS/Cinderela.png</url>
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Cinderela.1.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
