@@ -140,6 +140,14 @@
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl>	
+		<!-- Mogli o menino Lobo -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Mogli o menino Lobo</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Mogli-o-menino-lobo.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Mogli-o-menino-lobo.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>		
 		<!-- O Rei Leão -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>O Rei Leão</desc>
