@@ -147,6 +147,38 @@
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/O-rei-leao-3-hakuna-matata.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
+	</mtrl>	
+		<!-- O Principe do Egito -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>O Principe do Egito</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/O.Principe.do.Egito.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/O.Principe.do.Egito.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Os Cavaleiros do Zodiaco A Grande Batalha dos Deuses -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Os Cavaleiros do Zodiaco A Grande Batalha dos Deuses</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Os.Cavaleiros.do.Zodiaco.-.A.Grande.Batalha.dos.Deuses.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Os.Cavaleiros.do.Zodiaco.-.A.Grande.Batalha.dos.Deuses.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Os Cavaleiros do Zodiaco A Lenda dos Defensores de ATENA -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Os Cavaleiros do Zodiaco A Lenda dos Defensores de ATENA</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Os.Cavaleiros.do.Zodiaco.-.A.Lenda.dos.Defensores.de.ATENA.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Os.Cavaleiros.do.Zodiaco.-.A.Lenda.dos.Defensores.de.ATENA.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Os Cavaleiros do Zodiaco O Santo Guerreiro -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Os Cavaleiros do Zodiaco O Santo Guerreiro</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Os.Cavaleiros.do.Zodiaco.-.O.Santo.Guerreiro.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Os.Cavaleiros.do.Zodiaco.-.O.Santo.Guerreiro.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
 	</mtrl>		
 	</spc>
 </nsx>
