@@ -339,6 +339,30 @@
 		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Toy.Story.4.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
+	</mtrl>	
+		<!-- Valente -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Valente</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Valente.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Valente.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Vida de Inseto -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Vida de Inseto</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Vida.de.Inseto.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Vida.de.Inseto.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Zootopia Essa Cidade e o Bich -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Zootopia Essa Cidade e o Bicho</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Zootopia.Essa.Cidade.e.o.bicho.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Zootopia.Essa.Cidade.e.o.bicho.-.BY.SANDRO.STORE.mp44</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
 	</mtrl>		
 	</spc>
 </nsx>
