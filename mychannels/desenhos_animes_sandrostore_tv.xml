@@ -4,14 +4,149 @@
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 <spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
 		
-		<!-- A Era do Gelo -->
+		<!-- Aladdin -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-		<desc>A Era do Gelo</desc>
-		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/A-era-do-gelo.png</url>
-		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/A-era-do-gelo-1.-.BY.SANDRO.STORE.mp4</target>
+		<desc>Aladdin</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Aladdin.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Aladdin.-.BY.SANDRO.STORE.mp4</target>
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl> 
-	
+		<!-- Anastasia -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Anastasia</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Anastasia.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Anastasia.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Bambi -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Bambi</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Bambi.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Bambi.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>		
+		<!-- Branca de neve e os 7 anoes -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Branca de neve e os 7 anões</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Branca-de-neve-e-os-7-anoes.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Branca-de-neve-e-os-7-anoes.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Cinderela -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Cinderela</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Cinderela.1.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Cinderela.1.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Cinderela 2 -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Cinderela 2</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Cinderela.2.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Cinderela.1.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Cinderela 3 -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Cinderela 3</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Cinderela.3.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Cinderela.1.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Dragon ball super broly -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Dragon ball super broly</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Dragon-ball-super-broly.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Dragon-ball-super-broly.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Dragon Ball Z A Batalha Dos Deuses -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Dragon Ball Z A Batalha Dos Deuses</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Dragon.Ball.Z.-.A.Batalha.Dos.Deuses.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Dragon.Ball.Z.-.A.Batalha.Dos.Deuses.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Dragon ball Z O Renascimento de Freeza -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Dragon ball Z O Renascimento de Freeza</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Dragon-ball-z-o-renascimento-de-freeza.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Dragon-ball-z-o-renascimento-de-freeza.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Dragon Ball Z O Homem Mais Forte Do Mundo -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Dragon Ball Z O Homem Mais Forte Do Mundo</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Dragon.Ball.Z.-.O.Homem.Mais.Forte.Do.Mundo.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Dragon.Ball.Z.-.O.Homem.Mais.Forte.Do.Mundo.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Dragon Ball Z Gohan e Trunks Guerreiros do Futuro -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Dragon Ball Z Gohan e Trunks Guerreiros do Futuro</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Dragon.Ball.Z.Filme.extra.Gohan.e.Trunks.Guerreiros.do.Futuro.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Dragon.Ball.Z.Filme.extra.Gohan.e.Trunks.Guerreiros.do.Futuro.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Irmão urso -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Irmão urso</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Irmao-urso-1.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Irmao-urso-1.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Lilo e Stitch -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Lilo e Stitch</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Lilo.e.Stitch.1.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Lilo.e.Stitch.1.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- Lilo e Stitch 2 -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Lilo e Stitch 2</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Lilo.e.Stitch.2.O.Filme.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Lilo.e.Stitch.2.O.Filme.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- O Rei Leão -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>O Rei Leão</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/O-rei-leao.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/O-rei-leao.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- O Rei Leão 2 -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>O Rei Leão 2</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/O-rei-leao-2.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/O-rei-leao-2.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- O Rei Leão 3 -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>O Rei Leão 3</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/O-rei-leao-3-hakuna-matata.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/O-rei-leao-3-hakuna-matata.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>		
 	</spc>
 </nsx>
