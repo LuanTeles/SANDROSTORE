@@ -20,6 +20,22 @@
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl>	
+		<!-- A Pequena Sereia a História de Ariel -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>A Pequena Sereia a História de Ariel</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Anastasia.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/A.Pequena.Sereia.a.Historia.de.Ariel.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>	
+		<!-- A Pequena Sereia O Retorno para o mar -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>A Pequena Sereia O Retorno para o mar</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/A.Pequena.Sereia.2.O.Retorno.para.o.mar.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/A.Pequena.Sereia.2.O.Retorno.para.o.mar.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>		
 		<!-- Bambi -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Bambi</desc>
@@ -196,6 +212,14 @@
 		<cntry agelmt="0">all</cntry>
 		<lang>all</lang>
 	</mtrl>	
+		<!-- Pinoquio -->
+	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+		<desc>Pinoquio</desc>
+		<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/ANIMACOES/Pinoquio.png</url>
+		<target type="u">https://github.com/sandrojr1991/FILMES/releases/download/desenhos/Pinoquio.-.BY.SANDRO.STORE.mp4</target>
+		<cntry agelmt="0">all</cntry>
+		<lang>all</lang>
+	</mtrl>		
 		<!-- Pocahontas -->
 	<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 		<desc>Pocahontas</desc>
