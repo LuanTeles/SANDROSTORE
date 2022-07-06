@@ -156,14 +156,7 @@
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Grand%20Theft%20Auto%20IV%20[BLUS30127].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>  
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>GOD OF WAR ASCENSION [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/GODOFWARASCENSION.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.9/PS3/ISO/GOD%20OF%20WAR%20ASCENSION%20PT-BR.iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
+</mtrl>    
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>GRID AUTO ESPORTE [PASTA]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/GRIDAUTOESPORTE.png</url>
@@ -171,13 +164,6 @@
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>INFAMOUS 2 [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/INFAMOUS2.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/inFAMOUS%202%20[BCUS98125].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>INJUSTICE GODS AMONG US [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/INJUSTICEGODSAMONGUS.png</url>
@@ -290,13 +276,6 @@
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SHADOWS OF THE COLOSSUS [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SHADOWSOFTHECOLOSSUS.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Shadow%20Of%20The%20Colossus%20HD%20[NPEA00280].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>SAINTS ROW THE THIRD [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SAINTSROWTHETHIRD.png</url>
