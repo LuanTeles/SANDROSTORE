@@ -65,22 +65,21 @@
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Call%20of%20Duty%20Ghosts%20[BLUS31270].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>  
+</mtrl>
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>CALL OF DUTY BLACK OPS 2 ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/CALLOFDUTYBLACKOPS2.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Call%20of%20Duty%C2%AE%20Black%20Ops%20II%20[BLUS31141].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>  
+</mtrl> 
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>CALL OF DUTY BLACK OPS 3 ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/CALLOFDUTYBLACKOPS3.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Call%20of%20Duty%C2%AE%20Black%20Ops%20III%20%20[BLUS31527].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl> 
+</mtrl>    
 
-</mtrl> 
 </spc>
 </nsx>
