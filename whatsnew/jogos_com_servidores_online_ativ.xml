@@ -268,13 +268,6 @@
 <target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>Sniper Elite 3 [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SNIPERELITE3.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Sniper%20Elite%20III%20[BLUS31401].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
 </mtrl> 
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>Skate 3 [ISO]</desc>
@@ -291,13 +284,6 @@
 <lang>all</lang>
 </mtrl> 
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>Saints Row The Third [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SAINTSROWTHETHIRD.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Saints%20Row%20The%20Third%20-%20The%20Full%20Package%20BRD%20[BLES01748].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>Street Figther IV [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/STREETFIGHTERIV.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/Super%20Street%20Fighter%20IV%20[BLUS30453]%20-%20BY%20SANDRO%20STORE.iso</target>
@@ -305,26 +291,19 @@
 <lang>all</lang>
 </mtrl> 
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>Sonic AllStars Racing Transformed [ISO]</desc>
+<desc>Sonic allstars racing transformed [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SONICALLSTARSRACINGTRANSFORMED.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/FRANQUIAS/Sonic%20&%20All-Stars%20Racing%20Transformed%20[BLUS30839].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SuperSonic Acrobatic Rocket PowerRed Battle Cars [PKG]</desc>
+<desc>Super Sonic Acrobatic [PKG]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SUPERSONICACROBATICROCKETPOWEREDBATTLECARS.png</url>
 <target type="u">http://zeus.dl.playstation.net/cdn/UP2002/NPUB30035_00/8332ldcBhpH1thTO0VKeQSBMSTrv28YSHkj2Rp9Mms9Mqlbtt4UA2aruxjxMpUE2GQe1FpWu3hkVRirYFLHtUXU8HOM27jh1rDIMk.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>Saints Row 4 [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SAINTSROW4.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Saints%20Row%20IV%20-%20The%20Full%20Package%20[BLES02019].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>Splinter Cell Blacklist [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SPLINTERCELLBLACKLIST.png</url>
