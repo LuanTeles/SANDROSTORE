@@ -55,42 +55,42 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>CALL OF DUTY ADVANCED WARFARE ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/CALLOFDUTYADVANCEDWARFARE.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Call%20of%20Duty%20Advanced%20Warfare%20[BLUS31466].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>CALL OF DUTY GHOSTS ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/CALLOFDUTYGHOSTS.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Call%20of%20Duty%20Ghosts%20[BLUS31270].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>CALL OF DUTY BLACK OPS 2 ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/CALLOFDUTYBLACKOPS2.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Call%20of%20Duty%C2%AE%20Black%20Ops%20II%20[BLUS31141].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>CALL OF DUTY BLACK OPS 3 ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/CALLOFDUTYBLACKOPS3.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Call%20of%20Duty%C2%AE%20Black%20Ops%20III%20%20[BLUS31527].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>DESTINY ™ [ISO]</desc>
+<desc>DESTINY ™ [PKG]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/DESTINY.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://zeus.dl.playstation.net/cdn/UP0002/NPUB31202_00/lwWtKeVHTHhDVIfjSqRywrsUyFttzSgRyoJrPPPmApLoFWWrcFuRFQZFrLRCcavkIXIKimaWDMrgWRoRVJHAOvImDVjcWcpDMxgKd.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>DARK SOULS ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/DARKSOULS.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Demon_s%20Souls%20[BLUS30443].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
@@ -109,9 +109,9 @@
 <lang>all</lang>
 </mtrl>  
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>FIFA 2022 ANGELO GAMES ™ [ISO]</desc>
+<desc>FIFA 2022 ONLINE ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/FIFA2022.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/FIFA%2022%20MODO%20ONLINE%20BY%20SANDRO%20STORE%20[PS3ARCISO]%20-%20BY%20SANDRO%20STORE.iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>   
@@ -160,21 +160,21 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>INJUSTICE GODS AMONG US ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/INJUSTICEGODSAMONGUS.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Injustice%20Gods%20Among%20Us%20Ultimate%20Edition%20[BLES01967].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>JUST CAUSE 2 ™ [ISO]</desc>
+<desc>JUST CAUSE 2 ™ [PKG]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/JUSTCAUSE2.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://zeus.dl.playstation.net/cdn/UP0082/NPUB30606_00/LdqVDYbMaZeQtvuZKlIKugbPpsxJmBNSYtpUYIYauWDPOstSIDaqVicLVIUWRDsaoQwtqwPwLkcOopqingJifWBtPXLHUDmCNGkxa.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>KANE E LYNCH 2 ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/KANEELYNCH2.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/Kane%20&%20Lynch%202%20Dog%20Days%20[BLUS30383]%20-%20BY%20SANDRO%20STORE.iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
@@ -223,35 +223,35 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>MEDAL OF HONOR WARFIGHTER ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/MEDALOFHONORWARFIGHTER.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Medal%20of%20Honor%20Warfighter%20[BLUS30990].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>     
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>NEED FOR SPEED THE RUN ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/NEEDFORSPEEDTHERUN.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Need%20for%20Speed%20The%20Run%20[BLUS30757].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>NEED FOR SPEED RIVALS ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/NEEDFORSPEEDRIVALS.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Need%20for%20Speed%20Rivals%20[BLUS31201].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>NARUTO ULTIMATE NINJA STORM REVOLUTION ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/NARUTOULTIMATENINJASTORMREVOLUTION.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/NARUTO%20SHIPPUDEN%20Ultimate%20Ninja%20STORM%20Revolution%20[BLES02014].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>PLANTA VS ZOMBIE ™ [ISO]</desc>
+<desc>PLANTS VS ZOMBIES GARDEN WARFARE ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/PLANTAVSZOMBIEGARDIEN.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Plants%20Vs%20Zombies%20Garden%20Warfare%20[BLUS31410].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
