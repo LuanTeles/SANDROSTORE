@@ -254,7 +254,7 @@
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/Super%20Street%20Fighter%20IV%20[BLUS30453]%20-%20BY%20SANDRO%20STORE.iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl> 
+</mtrl>  
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>Sonic allstars [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SONICALLSTARSRACINGTRANSFORMED.png</url>
@@ -270,6 +270,5 @@
 <lang>all</lang>
 </mtrl>  
   
-</mtrl> 
 </spc>
 </nsx>
