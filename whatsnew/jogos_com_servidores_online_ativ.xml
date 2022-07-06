@@ -192,7 +192,14 @@
 <target type="u">http://zeus.dl.playstation.net/cdn/UP0082/NPUB30606_00/LdqVDYbMaZeQtvuZKlIKugbPpsxJmBNSYtpUYIYauWDPOstSIDaqVicLVIUWRDsaoQwtqwPwLkcOopqingJifWBtPXLHUDmCNGkxa.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>  
+</mtrl> 
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>INJUSTICE GODS AMONG US ™ [ISO]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/INJUSTICEGODSAMONGUS.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Injustice%20Gods%20Among%20Us%20Ultimate%20Edition%20[BLES01967].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>KANE E LYNCH 2 ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/KANEELYNCH2.png</url>
@@ -201,12 +208,12 @@
 <lang>all</lang>
 </mtrl> 
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>KOF XIII ™ [ISO]</desc>
+<desc>THE KING OF FIGTHERS 13 ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/KOFXIII.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/THE%20KING%20OF%20FIGHTERS%20XIII%20[BLUS30845].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>   
- 
+</mtrl>
+
 </spc>
 </nsx>
