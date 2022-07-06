@@ -2,7 +2,7 @@
 
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
 <spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
-    
+ 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>ARMY OF TWO DEVIL'S CARTEL ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/ARMYOFTWODEVILS%20CARTEL.png</url>
@@ -16,406 +16,287 @@
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Battlefield%204%20[BLUS31162].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>    
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+</mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>BATTLEFIELD HARDLINE ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/BATTLEFIELDHARDLINE.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Battlefield%20Hardline%20[BLUS31440].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+</mtrl>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>BATMAN ARKHAM CITY ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/BATMANARKHAMCITY.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Batman%20Arkham%20City%20GOTY%20[BLUS30978].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+</mtrl> 
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>BLUR ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/BLUR.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Blur_[BLES00759].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>BOMBERMAN ULTRA ™ [PKG]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/BOMBERMANULTRA.png</url>
 <target type="u">http://ares.dl.playstation.net/cdn/UP0555/NPUB30051_00/4GQBIsH0TsJvVWpNpDCPburaOnRDIx2Y90AyB2VVXLXg2g5GFDPN1Db46Kw4DYAUMH4syup0BdOGjjJKxjIAtIjtSj18V9lVj6Ekl.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+</mtrl> 
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>CALL OF DUTY MW 4 ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/CALLOFDUTYMW4.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Call%20of%20Duty%C2%AE%20Modern%20Warfare%204%20[BLES00148].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+</mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>CALL OF DUTY ADVANCED WARFARE ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/CALLOFDUTYADVANCEDWARFARE.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Call%20of%20Duty%20Advanced%20Warfare%20[BLUS31466].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>CALL OF DUTY GHOSTS ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/CALLOFDUTYGHOSTS.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Call%20of%20Duty%20Ghosts%20[BLUS31270].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>CALL OF DUTY BLACK OPS 2 ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/CALLOFDUTYBLACKOPS2.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Call%20of%20Duty%C2%AE%20Black%20Ops%20II%20[BLUS31141].iso</target>
+</mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Assassin's Creed Brotherhood ™ [ISO] - 7 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/AssassinsCreedBrotherhood.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Assassin's%20Creed%20Brotherhood%20[BLES00909].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>CALL OF DUTY BLACK OPS 3 ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/CALLOFDUTYBLACKOPS3.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Call%20of%20Duty%C2%AE%20Black%20Ops%20III%20%20[BLUS31527].iso</target>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Assassin's Creed II ™ [ISO] - 6 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/AssassinsCreedII.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Assassin's%20Creed%20II%20[BLES00669].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>DESTINY ™ [PKG]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/DESTINY.png</url>
-<target type="u">http://zeus.dl.playstation.net/cdn/UP0002/NPUB31202_00/lwWtKeVHTHhDVIfjSqRywrsUyFttzSgRyoJrPPPmApLoFWWrcFuRFQZFrLRCcavkIXIKimaWDMrgWRoRVJHAOvImDVjcWcpDMxgKd.pkg</target>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Assassin's Creed III ™ [ISO] - 10 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/AssassinsCreedIII.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Assassin's%20Creed%20III%20[BLUS30991].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Assassin's Creed IV Black Flag ™ [ISO] - 10 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/AssassinsCreedIVBlackFlag.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Assassin's%20Creed%20IV%20Black%20Flag%20[BLUS31193].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Assassin's Creed Revelations ™ [ISO] - 7 GB</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/AssassinsCreedRevelations.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Assassin's%20Creed%20Revelations%20%20[BLES01466].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Assassin's Creed Rogue ™ [ISO] - 6 GB</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/AssassinsCreedRogue.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Assassin_s%20Creed%20Rogue%20[BLUS31465].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Grand Thef Auto V ™ [ISO] - 17 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/GrandThefAutoV.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Grand%20Theft%20Auto%20V%20%20[BLES01807].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Sleeping Dogs ™ [ISO] - 7 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/SleepingDogs.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Sleeping%20Dogs%20[BLUS30927].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>The Last of Us ™ [ISO] - 27 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/TheLastofUs.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/The%20Last%20of%20Us%20[BCUS98174].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Uncharted 3 Drake's Deception ™ [ISO] - 45 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/Uncharted3.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Uncharted%203%20Drake's%20DeceptionGame%20of%20the%20Year%20[BCES01670].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>The Evil Within ™ [ISO] - 7 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/TheEvilWithin.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/The%20Evil%20Within%20[BLUS31374].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Beyond Two Souls ™ [ISO] - 27 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/BeyondTwoSouls.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Beyond%20Two%20Souls%20%20[BCUS99134].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>BioShock ™ [ISO] - 11 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/BioShock.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/BioShock%20[BLUS30166][BR].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>BioShock 2 ™ [ISO] - 9 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/BioShock2.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/BioShock%202%20[BLUS30420][BR].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>FIFA 2022 LITE ™ [ISO] - 20 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/FIFA2022LITE.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/FIFA%2022%20[BLES02258]%20-%20BY%20SANDRO%20STORE.iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>PES 2022 POTATO PATCH V11 ™ [ISO] - 26 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/PES2022POTATOPATCHV11.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/PES%202022%20POTATO%20PATCH%20V11%20BY%20SANDRO%20STORE%20[PS3ARCISO]%20-%20BY%20SANDRO%20STORE.iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>PES 2022 VR-PATCH BRASILEIRÃO 2022 ™ [ISO] - 23 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/PES2022VR-PATCHBRASILEIRAO2022.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/PES%202022%20VR-PATCH%20BRASILEIRAO%20A%20E%20B%20-%20BY%20SANDRO%20STORE%20[PS3ARCISO]%20-%20BY%20SANDRO%20STORE.iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>The God father The Dons Edition ™ [ISO] - 9 GB</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/TheGodfatherTheDonsEdition.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/The%20Godfather%20The%20Dons%20Edition%20[BLES00045]%20-%20BY%20SANDRO%20STORE.iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Uncharted 2 Among Thieves ™ [ISO] - 22 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/Uncharted2AmongThieves.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/Uncharted%202%20Among%20Thieves%20[BCES00757][BR]%20-%20BY%20SANDRO%20STORE.iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>   
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Asuras Wrath ™ [ISO] - 7 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/AsurasWrath.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/Asuras%20Wrath%20PT-BR%20BLUS30721%20-%20BY%20SANDRO%20STORE.iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Diablo III ™ [ISO] - 9 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/DiabloIII.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Diablo%20III%20[BLUS31188].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>DARK SOULS ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/DARKSOULS.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Demon_s%20Souls%20[BLUS30443].iso</target>
+<desc>Diablo III Reaper of Souls Ultimate Evil Edition ™ [ISO] - 18 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/DiabloIIIReaper.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Diablo%20III%20Reaper%20of%20Souls%20%20Ultimate%20Evil%20Edition%20[BLUS31437].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>DRAGON BALL XENOVERSE ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/DRAGONBALLXENOVERSE.png</url>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Dragon Ball Xenoverse + DLC DXMAX ™ [ISO] - 7 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/DragonBallXenoverse.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Dragon%20Ball%20Xenoverse%20+%20DLC%20DXMAX%20[BLES00000].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>FARCRY 4 ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/FARCRY4.png</url>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Far Cry 4 ™ [ISO] - 9 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/FarCry4.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Far_Cry_4_[BLUS31420].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>FIFA 2022 ONLINE ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/FIFA2022.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/FIFA%2022%20MODO%20ONLINE%20BY%20SANDRO%20STORE%20[PS3ARCISO]%20-%20BY%20SANDRO%20STORE.iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>   
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>F1 2014 ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/F12014.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/F1%202014%20[BLES02080].iso</target>
+</mtrl> 
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Silent Hill Homecoming ™ [ISO] - 7 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/SilentHillHomecoming.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Silent_Hill_-_Homecoming__[BLES00460].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>F1 RACE STARS ™ [PKG]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/F1RACESTARS.png</url>
-<target type="u">http://zeus.dl.playstation.net/cdn/UP4001/NPUB30930_00/OtNpBMLHdkcpreOuhIxdurHfballbgCnSlpVPHghQqPhfCTGvagpohcGgYFqlNmC.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>GTA IV ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/GTAIV.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Grand%20Theft%20Auto%20IV%20[BLUS30127].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>GOD OF WAR ASCENSION ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/GODOFWARASCENSION.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.9/PS3/ISO/GOD%20OF%20WAR%20ASCENSION%20PT-BR.iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>GRID AUTO ESPORTE ™ [PASTA]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/GRIDAUTOESPORTE.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/PASTA/GRID%20Autosport%20PT-BR%20BLUS31452.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>INFAMOUS 2 ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/INFAMOUS2.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/inFAMOUS%202%20[BCUS98125].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>INJUSTICE GODS AMONG US ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/INJUSTICEGODSAMONGUS.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Injustice%20Gods%20Among%20Us%20Ultimate%20Edition%20[BLES01967].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>JUST CAUSE 2 ™ [PKG]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/JUSTCAUSE2.png</url>
-<target type="u">http://zeus.dl.playstation.net/cdn/UP0082/NPUB30606_00/LdqVDYbMaZeQtvuZKlIKugbPpsxJmBNSYtpUYIYauWDPOstSIDaqVicLVIUWRDsaoQwtqwPwLkcOopqingJifWBtPXLHUDmCNGkxa.pkg</target>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Silent Hill Downpour ™ [ISO] - 4 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/SilentHillDownpour.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Silent_Hill_Downpour_[BLUS30565].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>KANE E LYNCH 2 ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/KANEELYNCH2.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/Kane%20&%20Lynch%202%20Dog%20Days%20[BLUS30383]%20-%20BY%20SANDRO%20STORE.iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>KOF XIII ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/KOFXIII.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/THE%20KING%20OF%20FIGHTERS%20XIII%20[BLUS30845].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>LITTLE BIG PLANET 3 ™ [PKG]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/LITLEBIGPLANET3.png</url>
-<target type="u">http://zeus.dl.playstation.net/cdn/UP9000/NPUA81116_00/aKFlQguFjIQtodJibSefHesXqMsbnyNxJDxiaScFMbGpcvVUrkBOlAymJJNOQMpphWBlyrwyVzMzdnjZDqfMvbqcTsYRuzuDpYAaK.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>MORTAL KOMBAT ARCADE KOLLECTION ™ [PKG]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/MORTALKOMBATARCADEKOLLECTION.png</url>
-<target type="u">http://zeus.dl.playstation.net/cdn/UP1018/NPUB30468_00/xchlzPIZKdZXOEpzkmKXoWIUfHXSOnqdYXrqPyzDQKrrvqpiyzUFCdNeMMPeOUqnnbeeJQERnZxdaadgLBjaxepTtTLZqWstPtitc.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>MARVEL VS CAPCOM 2 ™ [PKG]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/MARVELVSCAPCOM2.png</url>
-<target type="u">http://zeus.dl.playstation.net/cdn/EP0102/NPEB00087_00/KVDVMkrf6Ts1E45P6Eh0IGbUmJv50dyq3Qhk4Ul1t7NAnU36n2fd0LMQkp5FgDiEfpaGV6wbInvUoKa8A1GEgVnOWTGc6M01GcIV4.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>MARVEL VS CAPCOM 3 ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/MARVELVSCAPCOM3.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/MARVEL%20VS.%20CAPCOM%203%20[BLUS30410].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>MINECRAFT ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/MINECRAFT.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Minecraft%20PlayStation3%20Edition%20[BLES01976].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>MEDAL OF HONOR WARFIGHTER ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/MEDALOFHONORWARFIGHTER.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Medal%20of%20Honor%20Warfighter%20[BLUS30990].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>     
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>NEED FOR SPEED THE RUN ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/NEEDFORSPEEDTHERUN.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Need%20for%20Speed%20The%20Run%20[BLUS30757].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>NEED FOR SPEED RIVALS ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/NEEDFORSPEEDRIVALS.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Need%20for%20Speed%20Rivals%20[BLUS31201].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>NARUTO ULTIMATE NINJA STORM REVOLUTION ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/NARUTOULTIMATENINJASTORMREVOLUTION.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/NARUTO%20SHIPPUDEN%20Ultimate%20Ninja%20STORM%20Revolution%20[BLES02014].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>PLANTS VS ZOMBIES GARDEN WARFARE ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/PLANTAVSZOMBIEGARDIEN.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Plants%20Vs%20Zombies%20Garden%20Warfare%20[BLUS31410].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>PAYDAY 2 ™ [PKG]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/PAYDAY2.png</url>
-<target type="u">http://zeus.dl.playstation.net/cdn/UP4040/NPUB31294_00/lFmHpQfGhIwpUXDSnnCuCTJRzerfazpEqYkPDzIPwvWahypBjUVYvbKctjuRxycw.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>RESIDENT EVIL 5 ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/RESIDENTEVIL5.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/PASTA/Resident%20Evil%205%20Gold%20Edition%20[BLUS30491][BR][PASTA]%20-%20BY%20SANDRO%20STORE.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>   
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>RESIDENT EVIL 2 REVELATIONS ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/RESIDENTEVIL2REVELATIONS.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/RESIDENT%20EVIL%20REVELATIONS%202%20[BLUS31444].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>READ DEAD REDEMPTION ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/REDDEADREDEMPTION.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Red%20Dead%20Redemption%20[BLUS30418].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SAINT SEIYA BRAVOS SOLDADOS ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SAINTSEIYABRAVOSSOLDADOS.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SNIPER ELITE 3 ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SNIPERELITE3.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Sniper%20Elite%20III%20[BLUS31401].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SKATE 3 ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SKATE3.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Skate%203%20[BLUS30464].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SOUL CALIBUR IV ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SOULRCALIBUR4.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>STREET FIGHTER VS TEKKEN ™ [PKG]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/STREETFIGHTERVSTEKKEN.png</url>
-<target type="u">http://zeus.dl.playstation.net/cdn/EP0102/NPEB01792_00/DNbKNmGGPWlToWyLxGoEfPDdwJLrjxqapCOEMtcWaxLeNMlDrqajyxOHOoYpZqhx.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SSX ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SSX.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SKYRIM ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SKYRIM.png</url>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Skyrim ™ [ISO] - 12 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/Skyrim.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Skyrim_[BLUS31202].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SHADOWS OF THE COLOSSUS ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SHADOWSOFTHECOLOSSUS.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Shadow%20Of%20The%20Colossus%20HD%20[NPEA00280].iso</target>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>BLEACH Soul Resurreccion ™ [ISO] - 4 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/BLEACHSoulResurreccion.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/BLEACH%20Soul%20Resurreccion%20[BLUS30769].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SAINTS ROW THE THIRD ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SAINTSROWTHETHIRD.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Saints%20Row%20The%20Third%20-%20The%20Full%20Package%20BRD%20[BLES01748].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>STREET FIGHTER IV ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/STREETFIGHTERIV.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/Super%20Street%20Fighter%20IV%20[BLUS30453]%20-%20BY%20SANDRO%20STORE.iso</target>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Call of Duty Advanced Warfare ™ [ISO] - 13 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/CallofDutyAdvancedWarfare.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Call%20of%20Duty%20Advanced%20Warfare%20[BLUS31466].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SONIC ALLSTARS RACING TRANSFORMED ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SONICALLSTARSRACINGTRANSFORMED.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/FRANQUIAS/Sonic%20&%20All-Stars%20Racing%20Transformed%20[BLUS30839].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SUPERSONIC ACROBATIC ROCKET POWERED BATTLE CARS ™ [PKG]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SUPERSONICACROBATICROCKETPOWEREDBATTLECARS.png</url>
-<target type="u">http://zeus.dl.playstation.net/cdn/UP2002/NPUB30035_00/8332ldcBhpH1thTO0VKeQSBMSTrv28YSHkj2Rp9Mms9Mqlbtt4UA2aruxjxMpUE2GQe1FpWu3hkVRirYFLHtUXU8HOM27jh1rDIMk.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SAINTS ROW 4 ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SAINTSROW4.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Saints%20Row%20IV%20-%20The%20Full%20Package%20[BLES02019].iso</target>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>METAL GEAR RISING REVENGEANCE ™ [ISO] - 23 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/METALGEARRISINGREVENGEANCE.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/METAL%20GEAR%20RISING%20REVENGEANCE%20[BLUS31045][auto][online].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SPLINTER CELL BLACKLIST ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SPLINTERCELLBLACKLIST.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Tom%20Clancy's%20Splinter%20Cell%20Blacklist%20[BLUS31025].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SONIC GENERATIONS ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SONICGENERATIONS.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/SONIC%20GENERATIONS%20[BLES01236].iso</target>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Os Cavaleiro do Zodiaco Batalha dO Santuário ™ [ISO] - 7 GB [PT-BR]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/OsCavaleirodoZodiacoBatalhadoSantuario.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Os%20Cavaleiros%20do%20Zodiaco%20Batalha%20do%20Santuario.iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>   
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>TEKKER 6 ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/TEKKER6.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Tekken%206.iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>TEKKEN TAG TOURNAMENT ™ [PKG]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/TEKKENTAGTOURNAMENT.png</url>
-<target type="u">http://zeus.dl.playstation.net/cdn/UP0700/NPUB30899_00/ItKzSOujDQkjONIBWbpFREnVVGCWIjPEgIiQOREKVIXrfliGHqQDYHdMGSSABssS.pkg</target>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>UFC Undisputed 3 ™ [ISO] - 22 GB</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/UFCUndisputed3.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/UFC%20Undisputed%203%20[BLES01231].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>TOMB RAIDER ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/TOMBRAIDER.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Tomb%20Raider%20%20[BLES01780].iso</target>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Killzone 3 ™ [ISO] - 22 GB</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_PROCURADOS/Killzone3.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Killzone3%20[BCUS98234].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>WATCH DOGS ™ [PKG]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/WATCHDOGS.png</url>
-<target type="u">http://zeus.dl.playstation.net/cdn/UP0001/NPUB31254_00/imczMyqQkcLvXpyFXWUJeoeCMeKotdzBIYBplaqpsLTDYDpnXivAClxFSmqeojsh.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
- 
+</mtrl>
+
 </spc>
 </nsx>
