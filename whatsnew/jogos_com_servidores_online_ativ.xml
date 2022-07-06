@@ -221,33 +221,12 @@
 <lang>all</lang>
 </mtrl> 
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>MINECRAFT [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/MINECRAFT.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Minecraft%20PlayStation3%20Edition%20[BLES01976].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>MEDAL OF HONOR WARFIGHTER [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/MEDALOFHONORWARFIGHTER.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Medal%20of%20Honor%20Warfighter%20[BLUS30990].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>NEED FOR SPEED THE RUN [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/NEEDFORSPEEDTHERUN.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Need%20for%20Speed%20The%20Run%20[BLUS30757].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>NEED FOR SPEED RIVALS [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/NEEDFORSPEEDRIVALS.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/Need%20for%20Speed%20Rivals%20[BLUS31201].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>NARUTO ULTIMATE NINJA STORM REVOLUTION [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/NARUTOULTIMATENINJASTORMREVOLUTION.png</url>
@@ -284,13 +263,6 @@
 <lang>all</lang>
 </mtrl>
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>READ DEAD REDEMPTION [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/REDDEADREDEMPTION.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Red%20Dead%20Redemption%20[BLUS30418].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>SAINT SEIYA BRAVOS SOLDADOS [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SAINTSEIYABRAVOSSOLDADOS.png</url>
 <target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
@@ -310,32 +282,11 @@
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Skate%203%20[BLUS30464].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl> 
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SOUL CALIBUR IV [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SOULRCALIBUR4.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
 </mtrl>  
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>STREET FIGHTER VS TEKKEN [PKG]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/STREETFIGHTERVSTEKKEN.png</url>
 <target type="u">http://zeus.dl.playstation.net/cdn/EP0102/NPEB01792_00/DNbKNmGGPWlToWyLxGoEfPDdwJLrjxqapCOEMtcWaxLeNMlDrqajyxOHOoYpZqhx.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SSX [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SSX.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SKYRIM [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SKYRIM.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Skyrim_[BLUS31202].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
@@ -389,13 +340,6 @@
 <lang>all</lang>
 </mtrl> 
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>SONIC GENERATIONS [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SONICGENERATIONS.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/SONIC%20GENERATIONS%20[BLES01236].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>TEKKER 6 [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/TEKKER6.png</url>
 <target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/Tekken%206.iso</target>
@@ -409,20 +353,6 @@
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>TOMB RAIDER [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/TOMBRAIDER.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Tomb%20Raider%20%20[BLES01780].iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>WATCH DOGS [PKG]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/WATCHDOGS.png</url>
-<target type="u">http://zeus.dl.playstation.net/cdn/UP0001/NPUB31254_00/imczMyqQkcLvXpyFXWUJeoeCMeKotdzBIYBplaqpsLTDYDpnXivAClxFSmqeojsh.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>
      
 </spc>
 </nsx>
