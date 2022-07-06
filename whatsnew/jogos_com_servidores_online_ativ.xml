@@ -228,7 +228,7 @@
 <lang>all</lang>
 </mtrl> 
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>Paydat 2 [PKG]</desc>
+<desc>Payday 2 [PKG]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/PAYDAY2.png</url>
 <target type="u">http://zeus.dl.playstation.net/cdn/UP4040/NPUB31294_00/lFmHpQfGhIwpUXDSnnCuCTJRzerfazpEqYkPDzIPwvWahypBjUVYvbKctjuRxycw.pkg</target>
 <cntry agelmt="0">all</cntry>
