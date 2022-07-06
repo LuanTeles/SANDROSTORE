@@ -200,19 +200,19 @@
 <lang>all</lang>
 </mtrl>
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>KANE E LYNCH 2 ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/KANEELYNCH2.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/ISO/Kane%20&%20Lynch%202%20Dog%20Days%20[BLUS30383]%20-%20BY%20SANDRO%20STORE.iso</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
- <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>THE KING OF FIGTHERS 13 ™ [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/KOFXIII.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/THE%20KING%20OF%20FIGHTERS%20XIII%20[BLUS30845].iso</target>
+<desc>LITTLE BIG PLANET 3 ™ [PKG]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/LITLEBIGPLANET3.png</url>
+<target type="u">http://zeus.dl.playstation.net/cdn/UP9000/NPUA81116_00/aKFlQguFjIQtodJibSefHesXqMsbnyNxJDxiaScFMbGpcvVUrkBOlAymJJNOQMpphWBlyrwyVzMzdnjZDqfMvbqcTsYRuzuDpYAaK.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>MORTAL KOMBAT ARCADE KOLLECTION ™ [PKG]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/MORTALKOMBATARCADEKOLLECTION.png</url>
+<target type="u">http://zeus.dl.playstation.net/cdn/UP1018/NPUB30468_00/xchlzPIZKdZXOEpzkmKXoWIUfHXSOnqdYXrqPyzDQKrrvqpiyzUFCdNeMMPeOUqnnbeeJQERnZxdaadgLBjaxepTtTLZqWstPtitc.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
 
 </spc>
 </nsx>
