@@ -227,6 +227,26 @@
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
- 
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Paydat 2 [PKG]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/PAYDAY2.png</url>
+<target type="u">http://zeus.dl.playstation.net/cdn/UP4040/NPUB31294_00/lFmHpQfGhIwpUXDSnnCuCTJRzerfazpEqYkPDzIPwvWahypBjUVYvbKctjuRxycw.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Resident Evil 5 [ISO]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/RESIDENTEVIL5.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/PASTA/Resident%20Evil%205%20Gold%20Edition%20[BLUS30491][BR][PASTA]%20-%20BY%20SANDRO%20STORE.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Resident Evil 2 Revelations [ISO]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/RESIDENTEVIL2REVELATIONS.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/RESIDENT%20EVIL%20REVELATIONS%202%20[BLUS31444].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
 </spc>
 </nsx>
