@@ -277,12 +277,19 @@
 <lang>all</lang>
 </mtrl>
  <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>Read Dead Redemption [ISO]</desc>
-<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/REDDEADREDEMPTION.png</url>
-<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Red%20Dead%20Redemption%20[BLUS30418].iso</target>
+<desc>Sonic Allstars [ISO]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SONICALLSTARSRACINGTRANSFORMED.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/FRANQUIAS/Sonic%20&%20All-Stars%20Racing%20Transformed%20[BLUS30839].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
+ <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Sonic Generations [ISO]</desc>
+<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/SONICGENERATIONS.png</url>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/SONIC%20GENERATIONS%20[BLES01236].iso</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
   
 </spc>
 </nsx>
