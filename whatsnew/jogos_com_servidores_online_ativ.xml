@@ -132,7 +132,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>GTA IV ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/GTAIV.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Grand%20Theft%20Auto%20IV%20[BLUS30127].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
@@ -153,7 +153,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>INFAMOUS 2 ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/INFAMOUS2.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_2.0/PS3/ISO/inFAMOUS%202%20[BCUS98125].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
@@ -200,23 +200,23 @@
 <lang>all</lang>
 </mtrl> 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>MARVEL VS CAPCOM 2 ™ [ISO]</desc>
+<desc>MARVEL VS CAPCOM 2 ™ [PKG]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/MARVELVSCAPCOM2.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://zeus.dl.playstation.net/cdn/EP0102/NPEB00087_00/KVDVMkrf6Ts1E45P6Eh0IGbUmJv50dyq3Qhk4Ul1t7NAnU36n2fd0LMQkp5FgDiEfpaGV6wbInvUoKa8A1GEgVnOWTGc6M01GcIV4.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>MARVEL VS CAPCOM 3 ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/MARVELVSCAPCOM3.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.8/SV_SD_1.8/JOGOS%20EM%20ISO/MARVEL%20VS.%20CAPCOM%203%20[BLUS30410].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>MINECRAFT ™ [ISO]</desc>
 <url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/MINECRAFT.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://lojavip.sandrostoreps3.workers.dev/1:/JOGOS%20ISO/Minecraft%20PlayStation3%20Edition%20[BLES01976].iso</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
