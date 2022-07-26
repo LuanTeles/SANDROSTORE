@@ -26,9 +26,9 @@
 			<lang>all</lang>
 		</mtrl>		
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>God of War Ascension - NPUA80918 - 34.02 Gb</desc>
+			<desc>PSP Minis Launcher</desc>
 			<url type="2">http://github.com/LuanTeles/Billboard/raw/main/media/game/god_of_war-ascension.png</url>
-			<target type="u">psgm:install?contentid=UP9000-NPUA80918_00-GOWADIGITALVERS1&amp;url=http://zeus.dl.playstation.net/cdn/UP9000/NPUA80918_00/CeOvzDdDsBlXxMLySmhFiqvweBfKTKFUrKsZUjHNojmbkNKpjHetAQykAclglBSM.pkg</target>
+			<target type="u">psgm:install?contentid=UP9000-NPUA80918_00-GOWADIGITALVERS1&amp;url=http://whatsnew.sandrostoreps3.workers.dev/0:/PSP_Minis_Launcher.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
