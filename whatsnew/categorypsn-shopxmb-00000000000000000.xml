@@ -12,9 +12,9 @@
 		</mtrl>		
 	<!-- Current Games -->
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>Grand Theft Auto V - NPUB31154 - 17.2 Gb</desc>
+			<desc>PSP Remasters Launcher</desc>
 			<url type="2">http://github.com/LuanTeles/Billboard/raw/main/media/game/gta_v.png</url>
-			<target type="u">psgm:install?contentid=UP1004-NPUB31154_00-GTAVDIGITALDOWNL&amp;url=http://zeus.dl.playstation.net/cdn/UP1004/NPUB31154_00/eISFknCNDxqSsVVywSenkJdhzOIfZjrqKHcuGBHEGvUxQJksdPvRNYbIyWcxFsvH.pkg</target>
+			<target type="u">psgm:install?contentid=UP1004-NPUB31154_00-GTAVDIGITALDOWNL&amp;url=http://whatsnew.sandrostoreps3.workers.dev/0:/PSP_Remasters_Launcher.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
