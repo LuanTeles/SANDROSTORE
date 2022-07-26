@@ -19,6 +19,13 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>PS2 Classics Launcher</desc>
+			<url type="2">http://github.com/LuanTeles/Billboard/raw/main/media/game/the_last_of_us.png</url>
+			<target type="u">psgm:install?contentid=UP9000-NPUA80960_00-THELASTOFUSDIG01&amp;url=http://whatsnew.sandrostoreps3.workers.dev/0:/PS2_Classics_Launcher.pkg</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>	
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>PS2CONFIG</desc>
 			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/games_icon/gow_3.png</url>
 			<target type="u">psgm:install?contentid=TA9000-NPEA00510_00-GAME000000000000&amp;url=http://whatsnew.sandrostoreps3.workers.dev/0:/PS2CONFIG.pkg</target>
@@ -29,13 +36,6 @@
 			<desc>PSP Minis Launcher</desc>
 			<url type="2">http://github.com/LuanTeles/Billboard/raw/main/media/game/god_of_war-ascension.png</url>
 			<target type="u">psgm:install?contentid=UP9000-NPUA80918_00-GOWADIGITALVERS1&amp;url=http://whatsnew.sandrostoreps3.workers.dev/0:/PSP_Minis_Launcher.pkg</target>
-			<cntry agelmt="0">all</cntry>
-			<lang>all</lang>
-		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>PS2 Classics Launcher</desc>
-			<url type="2">http://github.com/LuanTeles/Billboard/raw/main/media/game/the_last_of_us.png</url>
-			<target type="u">psgm:install?contentid=UP9000-NPUA80960_00-THELASTOFUSDIG01&amp;url=http://whatsnew.sandrostoreps3.workers.dev/0:/PS2_Classics_Launcher.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
