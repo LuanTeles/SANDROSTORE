@@ -5,7 +5,7 @@
 	<!-- Prêmiuns -->
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 			<desc>Sandro Store Vip</desc>
-			<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/Fursanal-Aqsa-OsCavaleirosdaMesquitaAl-Aqsa.png</url>
+			<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/psn_media/SANDROSTORE3.0.png</url>
 			<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/PKG/fursan-al-aqsa-game-episode-1-ps3.pkg</target>
 			<url type="73">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.swf</url>
 			<cntry agelmt="0">all</cntry>
@@ -13,7 +13,7 @@
 		</mtrl>  
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 			<desc>Sandro Store Play</desc>
-			<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_ONLINE/Fursanal-Aqsa-OsCavaleirosdaMesquitaAl-Aqsa.png</url>
+			<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/psn_media/SANDROSTOREPLAY.png</url>
 			<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/PKG/fursan-al-aqsa-game-episode-1-ps3.pkg</target>
 			<url type="73">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.swf</url>
 			<cntry agelmt="0">all</cntry>
@@ -22,28 +22,28 @@
 	<!-- Essências -->
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>PS2 Classics Launcher</desc>
-			<url type="2">http://github.com/LuanTeles/Billboard/raw/main/media/game/the_last_of_us.png</url>
+			<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/psn_media/PS2CLASSICSPLACEHOLDER.png</url>
 			<target type="u">psgm:install?contentid=CUSTOM-PS2U10000_00-0000000000000000&amp;url=http://whatsnew.sandrostoreps3.workers.dev/0:/PS2_Classics_Launcher.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>	
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>PS2CONFIG</desc>
-			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/games_icon/gow_3.png</url>
+			<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/psn_media/PS2CONFIG.png</url>
 			<target type="u">psgm:install?contentid=CUSTOM-PS2CONFIG_00-0000000000000000&amp;url=http://whatsnew.sandrostoreps3.workers.dev/0:/PS2CONFIG.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>		
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>PSP Minis Launcher</desc>
-			<url type="2">http://github.com/LuanTeles/Billboard/raw/main/media/game/god_of_war-ascension.png</url>
+			<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/psn_media/PSPMINI.png</url>
 			<target type="u">psgm:install?contentid=CUSTOM-PSPM66820_00-0000000000000000&amp;url=http://whatsnew.sandrostoreps3.workers.dev/0:/PSP_Minis_Launcher.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>PSP Remasters Launcher</desc>
-			<url type="2">http://github.com/LuanTeles/Billboard/raw/main/media/game/gta_v.png</url>
+			<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/psn_media/PSPREMASTERS.png</url>
 			<target type="u">psgm:install?contentid=CUSTOM-PSPC66820_00-0000000000000000&amp;url=http://whatsnew.sandrostoreps3.workers.dev/0:/PSP_Remasters_Launcher.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
