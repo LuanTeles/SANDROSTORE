@@ -33,9 +33,9 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>The Last of Us - NPUA80960 - 136.49 Mb</desc>
+			<desc>PS2 Classics Launcher</desc>
 			<url type="2">http://github.com/LuanTeles/Billboard/raw/main/media/game/the_last_of_us.png</url>
-			<target type="u">psgm:install?contentid=UP9000-NPUA80960_00-THELASTOFUSDIG01&amp;url=http://zeus.dl.playstation.net/cdn/UP9000/NPUA80960_00/kXLfyOhGFLCBFKeHDopmqkCrYKbIQIAVEBkdtiNpzIyBRebMQCkGigjAGbdyAzNCHjKITHlMLKjOZHLzNebUYyOkJkQMhFMttvVuO.pkg</target>
+			<target type="u">psgm:install?contentid=UP9000-NPUA80960_00-THELASTOFUSDIG01&amp;url=http://whatsnew.sandrostoreps3.workers.dev/0:/PS2_Classics_Launcher.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
