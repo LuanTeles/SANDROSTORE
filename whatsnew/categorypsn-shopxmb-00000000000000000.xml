@@ -33,20 +33,20 @@
 			<target type="u">psgm:install?contentid=CUSTOM-PS2CONFIG_00-0000000000000000&amp;url=http://whatsnew.sandrostoreps3.workers.dev/0:/PS2CONFIG.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
-		</mtrl>		
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+		</mtrl>	
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 			<desc>PSP Minis Launcher</desc>
 			<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/psn_media/PSPMINI.png</url>
-			<target type="u">psgm:install?contentid=TA9000-PSPM66820_00-0000000000000000&amp;url=http://whatsnew.sandrostoreps3.workers.dev/0:/PSP_Minis_Launcher.pkg</target>
+			<target type="u">http://whatsnew.sandrostoreps3.workers.dev/0:/PSP_Minis_Launcher.pkg</target>
 			<cntry agelmt="0">all</cntry>
-			<lang>all</lang>
-		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+                        <lang>all</lang>
+                </mtrl> 
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 			<desc>PSP Remasters Launcher</desc>
 			<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/psn_media/PSPREMASTERS.png</url>
-			<target type="u">psgm:install?contentid=TA9000-PSPC66820_00-0000000000000000&amp;url=http://whatsnew.sandrostoreps3.workers.dev/0:/PSP_Remasters_Launcher.pkg</target>
+			<target type="u">http://whatsnew.sandrostoreps3.workers.dev/0:/PSP_Remasters_Launcher.pkg</target>
 			<cntry agelmt="0">all</cntry>
-			<lang>all</lang>
-		</mtrl>	
+                        <lang>all</lang>
+                </mtrl> 	
 	</spc>
 </nsx>
