@@ -12,8 +12,9 @@
 		</mtrl>
 		
 		<mtrl id="1" mname="pider-Man Far From Home" from="2010-01-01T00:00:00.000Z" until="2100-01-01T00:00:00.000Z" lastm="2100-01-01T00:00:00.000Z" anno="">
-			<desc>Spider-Man Far From Home</desc>
+			<desc>Guia PS3 Golden®Hen [EDITION]</desc>
 			<url type="1">http://github.com/LuanTeles/Billboard/raw/main/media/video/spide_man-far_from_home.png</url>
+                        <target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/TUTORIAIS/Guia_PS3_Golden_Hen.mp4</target>			
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
@@ -21,6 +22,7 @@
 		<mtrl id="2" mname="Avengers - Ultimato" from="2010-01-01T00:00:00.000Z" until="2100-01-01T00:00:00.000Z" lastm="2100-01-01T00:00:00.000Z" anno="">
 			<desc>Avengers - Ultimato</desc>
 			<url type="1">http://github.com/LuanTeles/Billboard/raw/main/media/video/avengers-ultimato.png</url>
+                        <target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/TUTORIAIS/Baixando.jogos.em.iso.mp4</target>			
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
@@ -28,6 +30,7 @@
 		<mtrl id="3" mname="DC - Birds of Pray" from="2010-01-01T00:00:00.000Z" until="2100-01-01T00:00:00.000Z" lastm="2100-01-01T00:00:00.000Z" anno="">
 			<desc>DC - Birds of Pray</desc>
 			<url type="1">http://github.com/LuanTeles/Billboard/raw/main/media/video/dc_comics-birds_of_pray.png</url>
+			<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/TUTORIAIS/Baixando.jogos.em.PKG.mp4</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
@@ -35,6 +38,7 @@
 		<mtrl id="4" mname="DC - Joker" from="2010-01-01T00:00:00.000Z" until="2100-01-01T00:00:00.000Z" lastm="2100-01-01T00:00:00.000Z" anno="">
 			<desc>DC - Joker</desc>
 			<url type="1">http://github.com/LuanTeles/Billboard/raw/main/media/video/dc_comics-joker.png</url>
+			<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/TUTORIAIS/Personalizando_PS3.mp4</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
@@ -42,6 +46,7 @@
 		<mtrl id="5" mname="X-Man - Dark Phoenix" from="2010-01-01T00:00:00.000Z" until="2100-01-01T00:00:00.000Z" lastm="2100-01-01T00:00:00.000Z" anno="">
 			<desc>X-Man - Dark Phoenix</desc>
 			<url type="1">http://github.com/LuanTeles/Billboard/raw/main/media/video/x_man-dark_phonix.png</url>
+			<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/TUTORIAIS/Ativando_sistema_e_instalando_licencas.mp4</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
