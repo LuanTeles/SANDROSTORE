@@ -14,7 +14,7 @@
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 			<desc>Sandro Store Play</desc>
 			<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/psn_media/SANDROSTOREPLAY.png</url>
-			<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/PS3/PKG/fursan-al-aqsa-game-episode-1-ps3.pkg</target>
+			<target type="u">http://sandrostoreplay.sandrostoreps3.workers.dev/0:/SDPLAY-SEMCANAIS.pkg</target>
 			<cntry agelmt="0">all</cntry>
                         <lang>all</lang>
                 </mtrl>  	
