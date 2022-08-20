@@ -6,7 +6,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>Dance Dance Revolution ™</desc>
 <url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_MOVE/Dance_Dance_Revolution.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/HTML_MUSICA/DANCE_DANCE_REVOLUTION.html</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
@@ -36,9 +36,9 @@
 </mtrl>
     
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>Just Dance Kids ™</desc>
+<desc>Just Dance Kids 2 ™</desc>
 <url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_MOVE/Just_Dance_Kids.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/HTML_MUSICA/Just_Dance_Kids_2.html</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
@@ -46,7 +46,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>Michael Jackson The Experience ™</desc>
 <url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_MOVE/Michael_Jackson_The_Experience.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/HTML_MUSICA/MICHAEL_JACKSON.html</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
@@ -102,7 +102,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>Zumba Fitness ™</desc>
 <url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/JOGOS_MOVE/Zumba_Fitness.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
+<target type="u">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/HTML_MUSICA/ZUMBA_FITNESS.html</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>    
