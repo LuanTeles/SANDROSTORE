@@ -6,42 +6,42 @@
  
 	        <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 			<desc>Guia PS3 Golden®Hen [EDITION] ™</desc>
-			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/suporte/guia_ps3_golden_edition.png</url>
+			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/suporte_whatsnew_icons/guia_ps3_golden_edition.png</url>
 			<target type="u">http://github.com/sandrojr1991/SANDROSTORE/releases/download/TUTORIAIS/Guia_PS3_Golden_Hen.mp4</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>  
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 			<desc>Baixando Jogos em ISO ™</desc>
-			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/suporte/baixar_jogos_em_iso.png</url>
+			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/suporte_whatsnew_icons/baixar_jogos_em_iso.png</url>
 			<target type="u">http://github.com/sandrojr1991/SANDROSTORE/releases/download/TUTORIAIS/Baixando.jogos.em.iso.mp4</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>  	
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 			<desc>Baixando jogos em PKG ™</desc>
-			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/suporte/baixar_jogos_em_pkg.png</url>
+			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/suporte_whatsnew_icons/baixar_jogos_em_pkg.png</url>
 			<target type="u">http://github.com/sandrojr1991/SANDROSTORE/releases/download/TUTORIAIS/Baixando.jogos.em.PKG.mp4</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>  
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 			<desc>Personalizando o PS3 ™</desc>
-			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/suporte/personalizar_ps3.png</url>
+			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/suporte_whatsnew_icons/personalizar_ps3.png</url>
 			<target type="u">http://github.com/sandrojr1991/SANDROSTORE/releases/download/TUTORIAIS/Personalizando_PS3.mp4</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl> 		
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 			<desc>Ativando Sistema da PSN e Instalando Licenças ™</desc>
-			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/suporte/instalando_licencas.png</url>
+			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/suporte_whatsnew_icons/instalando_licencas.png</url>
 			<target type="u">http://github.com/sandrojr1991/SANDROSTORE/releases/download/TUTORIAIS/Ativando_sistema_e_instalando_licencas.mp4</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl> 
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 			<desc>Instalando Save Data ™</desc>
-			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/suporte/install_savedata.png</url>
+			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/suporte_whatsnew_icons/install_savedata.png</url>
 			<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.9/PS3/ISO/God%20of%20War%20III%20[BCES00510].iso</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
