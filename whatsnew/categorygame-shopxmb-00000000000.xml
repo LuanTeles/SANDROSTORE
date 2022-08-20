@@ -4,23 +4,6 @@
 <spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Sandro Store™ VIP</desc>
-<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.png</url>
-<url type="73">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.swf</url>  
-<target type="u">psgm:install?contentid=CUSTOM-SANDROSTO_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/Snes_Station.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl> 
-   
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>Trailer Sandro Store™ VIP</desc>
-<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.png</url>
-<target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
-
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Sandro Store™ Free V3 4K</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandrostore_free.png</url>
 <target type="u">psgm:install?contentid=TA9000-SANDROGAM_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/SandroStore_Free.pkg</target>
