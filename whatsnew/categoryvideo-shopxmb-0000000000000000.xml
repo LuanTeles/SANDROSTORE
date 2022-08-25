@@ -42,7 +42,7 @@
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 			<desc>Instalando Save Data ™</desc>
 			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/suporte_whatsnew_icons/install_savedata.png</url>
-			<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_1.9/PS3/ISO/God%20of%20War%20III%20[BCES00510].iso</target>
+			<target type="u">http://github.com/sandrojr1991/SANDROSTORE/releases/download/TUTORIAIS/SAVEDATA.mp4</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>  
