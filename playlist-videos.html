@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Sandro - PlayList de vídeos</title>
+
+    <!-- Link style sandroplayer.css -->
+	<link rel="stylesheet" href="css/style.css">
+</head>
+
+<style>
+*{
+margin: 0; padding: 0;
+box-sizing: border-box;
+text-transform: capitalize;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: normal;
+}
+
+body{
+background: #eee;
+}
+
+.heading{
+color: #444;
+font-size: 40px;
+text-align: center;
+padding: 10px;
+}
+
+.conteiner{
+display: grid;
+grid-template-columsn: 2fr 1fr;
+gap: 15px;
+align-items: flex-start;
+padding: 5px 5%;
+}
+
+.conteiner .main-video{
+background: #fff;
+border-radius: 5px;
+padding: 10px;
+}
+
+.conteiner .main-video video{
+width: 100%;
+border-radius: 5px;
+}
+
+.conteiner .main-video .title{
+color: #333;
+font-size: 23px;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+
+.conteiner .video-list{
+background: #fff;
+border-radius: 5px;
+height: 520px;
+overflow-y: scroll;
+max-width: 1430px;
+}
+
+.conteiner .video-list:-webkit-scrollbar{
+width: 7px;
+}
+
+.conteiner .video-list:-webkit-scrollbar-track{
+background: #ccc;
+border-radius: 50px;
+}
+
+.conteiner .video-list:-webkit-scrollbar-thumb{
+background: #666;
+border-radius: 50px;
+}
+
+.conteiner .video-list .vid video{
+max-width: 450px;
+border-radius: 5px;
+}
+
+.conteiner .video-list .vid{
+display: flex;
+align-items: center;
+gap: 15px;
+background: #f7f7f7;
+border-radius: 5px;
+margin: 10px;
+padding: 10px;
+border: 1px solid rgba(0,0,0,.1);
+cursor: pointer;
+}
+
+.conteiner .video-list .vid:hover{
+background: #eee;
+}
+
+.conteiner .video-list .vid.active{
+background: #29880b9;
+}
+
+.conteiner .video-list .vid.active .title{
+color: #fff;
+}
+
+.conteiner .video-list .vid .title{
+color: #333;
+font-size: 17px;
+}
+
+@media (max-width: 991px){
+
+.conteiner{
+grid-template-columsn: 1.5fr 1fr;
+padding: 10px;
+}
+
+}
+
+@media (max-width: 768px){
+
+.conteiner{
+grid-template-columsn: 1fr;
+}
+
+}
+</style>
+
+<body>
+
+<h3 class="heading">Sandro - PlayList de vídeos</h3>
+
+
+<div class="conteiner">
+
+    <div class="main-video">   
+	    <div class="video">
+	       <video poster="https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/qrcode_sandro_store.png" 
+		             src="https://github.com/sandrojr1991/SANDROSTOREE/releases/download/POKEMON/62.mp4"controls>
+		   </video>
+           <h3 class="title">01. Título do Vídeo</h3>
+		</div>
+	</div>
+	
+    <div class="video-list"> 	
+	    <div class="vid active">
+	       <video poster="https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/qrcode_sandro_store.png" 
+		            src="https://github.com/sandrojr1991/SANDROSTOREE/releases/download/POKEMON/62.mp4"muted>
+		   </video>
+           <h3 class="title">01. Título do Vídeo</h3>
+		</div>	
+	    <div class="vid">
+	       <video poster="https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/qrcode_sandro_store.png" 
+		            src="https://github.com/sandrojr1991/FILMES/releases/download/starwars/3.Star.Wars_.Episodio.III._A_Vinganca_Dos_Sith.-.BY.SANDRO.STORE.mp4"muted>
+		   </video>
+           <h3 class="title">02. Título do Vídeo</h3>
+		</div>			
+	    <div class="vid">
+	       <video poster="https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/qrcode_sandro_store.png" 
+		            src="https://github.com/sandrojr1991/FILMES/releases/download/starwars/3.Star.Wars_.Episodio.III._A_Vinganca_Dos_Sith.-.BY.SANDRO.STORE.mp4"muted>
+		   </video>
+           <h3 class="title">03. Título do Vídeo</h3>
+		</div>		
+	    <div class="vid">
+	       <video poster="https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/qrcode_sandro_store.png" 
+		            src="https://github.com/sandrojr1991/FILMES/releases/download/starwars/3.Star.Wars_.Episodio.III._A_Vinganca_Dos_Sith.-.BY.SANDRO.STORE.mp4"muted>
+		   </video>
+           <h3 class="title">04. Título do Vídeo</h3>
+		</div>			
+	    <div class="vid">
+	       <video poster="https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/qrcode_sandro_store.png" 
+		            src="https://github.com/sandrojr1991/FILMES/releases/download/starwars/3.Star.Wars_.Episodio.III._A_Vinganca_Dos_Sith.-.BY.SANDRO.STORE.mp4"muted>
+		   </video>
+           <h3 class="title">05. Título do Vídeo</h3>
+		</div>			
+	    <div class="vid">
+	       <video poster="https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/qrcode_sandro_store.png" 
+		            src="https://github.com/sandrojr1991/FILMES/releases/download/starwars/3.Star.Wars_.Episodio.III._A_Vinganca_Dos_Sith.-.BY.SANDRO.STORE.mp4"muted>
+		   </video>
+           <h3 class="title">06. Título do Vídeo</h3>
+		</div>		
+	    <div class="vid">
+	       <video poster="https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/qrcode_sandro_store.png" 
+		            src="https://github.com/sandrojr1991/FILMES/releases/download/starwars/3.Star.Wars_.Episodio.III._A_Vinganca_Dos_Sith.-.BY.SANDRO.STORE.mp4"muted>
+		   </video>
+           <h3 class="title">07. Título do Vídeo</h3>
+		</div>		
+	    <div class="vid">
+	       <video poster="https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/qrcode_sandro_store.png" 
+		            src="https://github.com/sandrojr1991/FILMES/releases/download/starwars/3.Star.Wars_.Episodio.III._A_Vinganca_Dos_Sith.-.BY.SANDRO.STORE.mp4"muted>
+		   </video>
+           <h3 class="title">08. Título do Vídeo</h3>
+		</div>			
+	    <div class="vid">
+	       <video poster="https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/qrcode_sandro_store.png" 
+		            src="https://github.com/sandrojr1991/FILMES/releases/download/starwars/3.Star.Wars_.Episodio.III._A_Vinganca_Dos_Sith.-.BY.SANDRO.STORE.mp4"muted>
+		   </video>
+           <h3 class="title">09. Título do Vídeo</h3>
+		</div>			
+	    <div class="vid">
+	       <video poster="https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/qrcode_sandro_store.png" 
+		            src="https://github.com/sandrojr1991/FILMES/releases/download/starwars/3.Star.Wars_.Episodio.III._A_Vinganca_Dos_Sith.-.BY.SANDRO.STORE.mp4"muted>
+		   </video>
+           <h3 class="title">10. Título do Vídeo</h3>
+		</div>			
+	</div>		
+	
+</div>
+
+<script>
+let listVideo = document.querySelectorAll('.video-list .vid');
+let mainVideo = document.querySelector('.main-video video');
+let title = document.querySelector('.main-video .title');
+
+listVideo.forEach(video =>{
+    video.onclick = () =>{
+	    listVideo.forEach(vid => vid.classList.remove('active'));
+	    video.classList.add('active');
+	    if(video.classList.contains('active')){
+	         let src = video.children[0].getAttribute('src');
+	         mainVideo.src = src;
+	         let text = video.children[1].innerHTML;
+	         title.innerHTML = text;
+    };
+  };
+});
+</script>
+
+</body>
+</html>
