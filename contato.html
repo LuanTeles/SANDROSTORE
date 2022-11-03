@@ -112,17 +112,17 @@ h2::before {
 </style>
   
   <body>
-    <h1>Formulário de Contato</h1>
+    <h1>ENVIAR COMPROVANTE</h1>
     <form
       action="https://formsubmit.co/sandrostoreps3@gmail.com"
       method="POST"
       class="form"
     >
-      <label for="name">Nome</label>
+      <label for="name">CPF</label>
       <input type="text" name="name" id="name" required />
       <label for="email">E-mail</label>
       <input type="email" name="email" id="email" required />
-      <label for="message">Mensagem</label>
+      <label for="message">WhatsApp</label>
       <textarea name="message" id="message" required></textarea>
       <input type="hidden" name="_captcha" value="false" />
       <input
@@ -130,6 +130,7 @@ h2::before {
         name="_next"
         value="https://yourdomain.co/thanks.html"
       />
+      <label>COMPROVANTE: <input type="file" name="image[]" multiple="multiple"></label>
       <button type="submit">Enviar</button>
     </form>
   </body>
