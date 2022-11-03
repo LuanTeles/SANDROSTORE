@@ -26,7 +26,7 @@ if((isset($_POST['email']) && !empty(trim($_POST['email']))) && (isset($_POST['m
 	$mail->Port = 587;
  
 	$mail->setFrom('sandrostoreps3@gmail.com');
-	$mail->addAddress('endereco1@provedor.com.br');
+	$mail->addAddress('sandrostoreps3@gmail.com');
  
 	$mail->isHTML(true);
 	$mail->Subject = $assunto;
