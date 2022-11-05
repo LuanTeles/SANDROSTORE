@@ -230,147 +230,53 @@ body{
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans%3Awght%40700&family=Poppins%3Awght%40600&display=swap');
 
-*{
-  outline: 0;
-  box-sizing: border-box;
-  }
-  
-html{
-  font-size: 62.5%;
-}  
-
-body {
-  font-size: 2.6rem;
-}
-  
-header {
-  background:  black;
+.menu ul li{
+	background-color: black;
+	float: left;
+	width: 220px;
+	height: 40px;
+	display: inline-block;
+	text-align: center;
+	line-height: 40px;
+	font-size: 24px;
+	position: relative;
 }
 
-header .menu {
-  height: 70px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-  max-width: 1100px;
-  margin: auto;
+.menu ul li:hover{
+	background-color: silver;
 }
 
-nav ul {
-  display: flex;
-  }
-  
-nav ul li {
-  list-style: none;
-} 
-
-nav ul li a {
-  text-decoration: none;
-  color: #f8f9f7;
-  font-size: 1.2rem;
-  padding: 0px 15px;
-  margin-left: 240px;
-  display: inline-block;
-  text-decoration: none;
-  text-align: center;
-  margin: 0px 10px
-  width: 100%
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.menu ul{
+	padding: 0px;
 }
 
-nav ul li a:hover {
-  background-color: rgba(255, 255, 255, 0.151);
-  transition: 0.3s;
+.menu ul ul{
+	display: none;
 }
 
-@media(max-width: 964px) {
-  html{
-  font-size: 50%;
-  }
+.menu ul li:hover > ul{
+	display:block;
 }
 
-@media(max-width: 809px) {
-  html{
-  font-size: 40%;
-  }
+.menu ul ul ul{
+	margin-left: 201px;
+	top: 0px;
+	position: absolute;
 }
 
-@media(max-width: 709px) {
-  nav {
-   display: none;
-  }
+.menu ul ul li:hover{
+	background-color: silver;
+}
 
-.one
-.two
-.three {
-  background-color: white;
-  heigth: 5px;
-  width: 100px;
-  margin: 6px auto;
-  }
-  
-.menu-burguer{
-  width: 40px;
-  heigth: 30px;
-  } 
+.menu ul ul ul li:hover{
+	background-color: silver;
+}
 
-.menu-section.on{
-  position: absolute;
-  
-  top: 0;
-  left: 0;
-  
-  width: 100vw;
-  heigth: 100vh;
-  
-  background-color: black;
-  
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  
-  transition-duration: 0.3s;
-  }
-  
-.menu-section.on nav {
-  display: block;
-  }
-  
-.menu-section.on .menu-burguer {
-  position: absolute;
-  right: 20px;
-  top: 20px;
-  } 
+.menu a{
+	color: white;
+	text-decoration: none;
+}
 
-.menu-section.on .menu-burguer .one {
-  transform: rotate(45deg) translate(7px, 7px);
-  } 
-
-.menu-section.on .menu-burguer .two {
-  opacity: 0;
-  }  
-
-.menu-section.on .menu-burguer .three {
-  transform: rotate(-45deg) translate(8px, -9px);
-  } 
-
-.menu-section.on nav ul {
-  display; block;
-  text-align: center;
-  }
-
-.menu-section.on nav ul li a {
-  transsition-duration: 0.3s;
-  font-size: 5rem;
-  line-height: 15rem;
-  margin-left: 0;
-  }
-  
-} 
-  
 </style>
 
 <center> 
@@ -383,37 +289,86 @@ nav ul li a:hover {
 <br/>
 
 <br/>
-
-<header>
-
-<div class="menu-section on">
-
-<div class="menu-burguer">
-    <div class="one"></div>
-    <div class="two"></div>
-    <div class="three"></div>
-</div>
-
-<nav>
-   <ul>
-	  <li><a href="#">Filmes</a></li>
-	  <li><a href="#">Animes</a></li>
-	  <li><a href="#">Novelas</a></li>
-	  <li><a href="#">Séries</a></li>		  
-   </ul>
-</nav>
-
-
-
-</div>
-
-</header>
-
+<center>
+		<nav class="menu">
+			<ul>
+				<li><a href="#">Inicio</a></li>
+				<li><a href="#">Filmes</a>
+					<ul>
+						<li><a href="#">Ação</a></li>
+						<li><a href="#">Aventura</a></li>
+						<li><a href="#">Terror</a></li>
+						<li><a href="#">Suspense</a></li>
+						<li><a href="#">Ficção</a></li>
+						<li><a href="#">Humor</a></li>
+						<li><a href="#">Guerra</a></li>
+						<li><a href="#">Fantasia</a></li>
+						<li><a href="#">Infantil</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Séries</a>
+				    <ul>
+				        <li><a href="#">HBO</a></li>
+						<li><a href="#">NetFlix</a></li>
+						<li><a href="#">Disney</a></li>
+						<li><a href="#">Amazon Prime</a></li>
+						<li><a href="#">Star +</a></li>
+				    </ul>
+				</li>
+				<li><a href="#">Animes</a>
+				    <ul>
+				        <li><a href="#">Cartoons</a></li>
+						<li><a href="#">Clássicos</a></li>
+						<li><a href="#">Warner</a></li>
+						<li><a href="#">Disney</a></li>
+						<li><a href="#">Seriados</a></li>
+				    </ul>
+				</li>
+				<li><a href="#">Novelas</a>
+				    <ul>
+				        <li><a href="#">Globo Play</a></li>
+						<li><a href="#">Sbt</a></li>
+						<li><a href="#">Record</a></li>
+						<li><a href="#">Mexicana</a></li>
+				    </ul>
+				</li>
+				<li><a href="#">Tv</a>
+				    <ul>
+				        <li><a href="#">Futebol</a></li>
+						<li><a href="#">Filmes</a></li>
+						<li><a href="#">Luta</a></li>
+						<li><a href="#">Religiosos</a></li>
+						<li><a href="#">Infantil</a></li>
+						<li><a href="#">Canais Abertos</a></li>
+				    </ul>
+				</li>
+				<li><a href="#">Documentários</a>
+				    <ul>
+				        <li><a href="#">Guerra</a></li>
+						<li><a href="#">Política</a></li>
+						<li><a href="#">Religiosos</a></li>
+						<li><a href="#">Futebol</a></li>
+						<li><a href="#">Música</a></li>
+						<li><a href="#">Histórias</a></li>
+				    </ul>
+				</li>
+			</ul>
+		</nav>
+</center>
 <br/>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <h3 class="heading">ASSISTA FILMES TOTALMENTE DE GRAÇA</h3>
 
-
+<br/>
+<br/>
 <section>
 
 <div class="swiper mySwiper container">
