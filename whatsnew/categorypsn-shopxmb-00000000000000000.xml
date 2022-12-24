@@ -4,7 +4,7 @@
 <spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
 	<!-- Prêmiuns -->
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-			<desc>Sandro Store Vip</desc>
+			<desc>SANDROSTORE®VIP</desc>
 			<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/psn_media/SANDROSTORE3.0.png</url>
 			<target type="u">http://lojavip.sandrostoreps3.workers.dev/0:/SV_SD_3.0/SandroStore30.pkg</target>
 			<url type="73">http://github.com/sandrojr1991/SANDROSTORE/raw/main/media/sandro.store.3.0.shaka.swf</url>
@@ -12,8 +12,8 @@
                         <lang>all</lang>
                 </mtrl>  	
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-			<desc>Sandro Store Play</desc>
-			<url type="2">http://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/psn_media/SANDROSTOREPLAY.png</url>
+			<desc>SANDROFLIX®PLAY</desc>
+			<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORE/main/media/psn_media/SANDROFLIXPLAY.png</url>
 			<target type="u">http://sandrostoreplay.sandrostoreps3.workers.dev/0:/SDPLAY-SEMCANAIS.pkg</target>
 			<cntry agelmt="0">all</cntry>
                         <lang>all</lang>
